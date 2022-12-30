@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Parajes" id="Parajes">
+	<SimpleField name="gid" type="int"></SimpleField>
+	<SimpleField name="cod_pcia" type="string"></SimpleField>
+	<SimpleField name="cod_depto" type="string"></SimpleField>
+	<SimpleField name="nom_depto" type="string"></SimpleField>
+	<SimpleField name="cod_ase" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="cod_aglo" type="string"></SimpleField>
+	<SimpleField name="nom_aglo" type="string"></SimpleField>
+	<SimpleField name="cod_agl" type="string"></SimpleField>
+	<SimpleField name="nom_agl" type="string"></SimpleField>
+	<SimpleField name="lat_gd" type="string"></SimpleField>
+	<SimpleField name="long_gd" type="string"></SimpleField>
+	<SimpleField name="lat_gs" type="string"></SimpleField>
+	<SimpleField name="long_gs" type="string"></SimpleField>
+	<SimpleField name="fuente" type="string"></SimpleField>
+</Schema>
+<Folder><name>Parajes</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Parajes">
+		<SimpleData name="gid">9693</SimpleData>
+		<SimpleData name="cod_pcia">58</SimpleData>
+		<SimpleData name="cod_depto">Neuquén</SimpleData>
+		<SimpleData name="nom_depto">Pehuenches</SimpleData>
+		<SimpleData name="cod_ase">58091A07</SimpleData>
+		<SimpleData name="nombre">Curacó</SimpleData>
+		<SimpleData name="tipo">Paraje</SimpleData>
+		<SimpleData name="cod_agl">580000</SimpleData>
+		<SimpleData name="nom_agl">sin gobierno local</SimpleData>
+		<SimpleData name="lat_gd">-37.517238</SimpleData>
+		<SimpleData name="long_gd">-69.968532</SimpleData>
+		<SimpleData name="lat_gs">-37º31' 2&quot;</SimpleData>
+		<SimpleData name="long_gs">-69º58' 7&quot;</SimpleData>
+		<SimpleData name="fuente">INDEC. ACA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.96853227,-37.5172377</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Parajes">
+		<SimpleData name="gid">9704</SimpleData>
+		<SimpleData name="cod_pcia">58</SimpleData>
+		<SimpleData name="cod_depto">Neuquén</SimpleData>
+		<SimpleData name="nom_depto">Pehuenches</SimpleData>
+		<SimpleData name="cod_ase">58091A20</SimpleData>
+		<SimpleData name="nombre">San Eduardo</SimpleData>
+		<SimpleData name="tipo">Paraje</SimpleData>
+		<SimpleData name="cod_agl">580000</SimpleData>
+		<SimpleData name="nom_agl">sin gobierno local</SimpleData>
+		<SimpleData name="lat_gd">-37.533340</SimpleData>
+		<SimpleData name="long_gd">-70.006246</SimpleData>
+		<SimpleData name="lat_gs">-37º32' 0&quot;</SimpleData>
+		<SimpleData name="long_gs">-70º 0'22&quot;</SimpleData>
+		<SimpleData name="fuente">IGN. SIG 250</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-70.00624551,-37.53334042</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Parajes">
+		<SimpleData name="gid">9575</SimpleData>
+		<SimpleData name="cod_pcia">58</SimpleData>
+		<SimpleData name="cod_depto">Neuquén</SimpleData>
+		<SimpleData name="nom_depto">Loncopué</SimpleData>
+		<SimpleData name="cod_ase">58063A11</SimpleData>
+		<SimpleData name="nombre">Paso Huitrín</SimpleData>
+		<SimpleData name="tipo">Paraje</SimpleData>
+		<SimpleData name="cod_agl">585063</SimpleData>
+		<SimpleData name="nom_agl">Chorriaca</SimpleData>
+		<SimpleData name="lat_gd">-37.670476</SimpleData>
+		<SimpleData name="long_gd">-69.978232</SimpleData>
+		<SimpleData name="lat_gs">-37º40'14&quot;</SimpleData>
+		<SimpleData name="long_gs">-69º58'42&quot;</SimpleData>
+		<SimpleData name="fuente">INDEC. ACA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.97823186,-37.6704756</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Corriente_de_agua_perenne" id="Corriente_de_agua_perenne">
+	<SimpleField name="gid" type="int"></SimpleField>
+	<SimpleField name="entidad" type="int"></SimpleField>
+	<SimpleField name="objeto" type="string"></SimpleField>
+	<SimpleField name="fna" type="string"></SimpleField>
+	<SimpleField name="gna" type="string"></SimpleField>
+	<SimpleField name="nam" type="string"></SimpleField>
+	<SimpleField name="sag" type="string"></SimpleField>
+</Schema>
+<Folder><name>Corriente_de_agua_perenne</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203190</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.01156869,-37.65266741 -70.01139737,-37.65274356 -70.01111184,-37.65280066 -70.01088341,-37.65285777 -70.01054076,-37.65295295 -70.01004584,-37.65299102 -70.00956994,-37.65304813 -70.00930344,-37.65314331 -70.00894177,-37.65327656 -70.00852298,-37.65339077 -70.0081613,-37.65344788 -70.00772348,-37.65350498 -70.00717145,-37.65358113 -70.00684784,-37.65365727 -70.00652423,-37.65365727 -70.00604834,-37.65371438 -70.00576281,-37.65377148 -70.00542016,-37.65377148 -70.00507752,-37.65382859</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203304</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.0217960250831,-37.656715032278 -70.02085811,-37.6568743 -70.02049643,-37.6568743</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203305</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.01649893,-37.65318138 -70.01628954,-37.65295295 -70.01598497,-37.65278163 -70.01566136,-37.65264838 -70.01545197,-37.65259127 -70.01522354,-37.65249609 -70.01497608,-37.65238188 -70.01465247,-37.65226766 -70.0142908,-37.65221056 -70.01389105,-37.65219152 -70.01345322,-37.65217249 -70.01316769,-37.65217249 -70.01280601,-37.65219152 -70.01253951,-37.65226766 -70.01221591,-37.65240091 -70.01187326,-37.65257223 -70.01156869,-37.65266741</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203306</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00507752,-37.65382859 -70.00483006,-37.65375245 -70.00435417,-37.65373341 -70.00395442,-37.65373341 -70.00338335,-37.65373341 -70.00283131,-37.65379052 -70.00231735,-37.65398088 -70.00182242,-37.65411413 -70.00147216,-37.65424255 -70.00074807,-37.65441937 -70,-37.65472016</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203655</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.02049643,-37.6568743 -70.02021089,-37.65668394 -70.01988729,-37.65649359 -70.01960175,-37.65636034 -70.01903068,-37.65599866 -70.01863093,-37.65575119 -70.01838347,-37.65557987 -70.018136,-37.65537048 -70.01792661,-37.65512302 -70.01773625,-37.65497073 -70.0175459,-37.65479941 -70.01729843,-37.65453291 -70.01707001,-37.65432352 -70.01695579,-37.65413316 -70.01693676,-37.65386666 -70.01689868,-37.65369534 -70.01678447,-37.65348595 -70.01665122,-37.65329559 -70.01649893,-37.65318138</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203665</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00802805,-37.65696948 -70.00778059,-37.6568743 -70.00760927,-37.65677912 -70.00738084,-37.6566078 -70.00724759,-37.65651262 -70.00713338,-37.65632227 -70.00705723,-37.65611287 -70.00692398,-37.65588444 -70.0067717,-37.65565602 -70.00661941,-37.65538952 -70.00648616,-37.65518012 -70.00627677,-37.65485652 -70.0059722,-37.65453291 -70.00580088,-37.65434255 -70.00557245,-37.6541522 -70.0054392,-37.65401895 -70.0051727,-37.65386666 -70.00507752,-37.65382859</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203666</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.02049643,-37.6568743 -70.02015379,-37.65693141 -70.01963982,-37.65695044 -70.01912586,-37.65696948 -70.01872611,-37.65698851 -70.01825022,-37.65698851 -70.01775529,-37.65695044 -70.01733651,-37.6568743 -70.01699386,-37.65674105 -70.01649893,-37.65664587 -70.01598497,-37.65658876 -70.01547101,-37.65651262 -70.01497608,-37.65641744 -70.01453826,-37.65641744 -70.01413851,-37.65649359 -70.01345322,-37.65668394 -70.01280601,-37.65685526 -70.01213976,-37.65698851 -70.01160676,-37.65706466 -70.0110928,-37.65719791 -70.01061814,-37.65721393</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203822</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00802805,-37.65696948 -70.00751409,-37.65712176 -70.00719048,-37.65727405 -70.00675266,-37.65742634 -70.00641002,-37.65750248 -70.00602931,-37.65752151 -70.00576281,-37.65750248 -70.00540113,-37.65748344 -70.00509656,-37.65742634 -70.00481102,-37.65735019 -70.00452549,-37.65725501 -70.00429706,-37.65717887 -70.00408767,-37.65708369 -70.00393538,-37.65700755 -70.00374502,-37.65691237 -70.00359274,-37.65677912 -70.00334527,-37.6566078 -70.0030407,-37.65643648 -70.00265999,-37.65632227 -70.0024506,-37.65632227 -70.00208892,-37.65628419 -70.00184146,-37.65624612 -70.00156381,-37.65614363</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203872</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.01061814,-37.65721393 -70.01008391,-37.65727405 -70.00974127,-37.65723598 -70.00937959,-37.65721694 -70.00901791,-37.65715984 -70.00859912,-37.65710273 -70.00827552,-37.65704562 -70.00802805,-37.65696948</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">203874</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00156381,-37.65614363 -70.00130846,-37.6560748 -70.00092774,-37.65599866 -70.00071835,-37.65596059 -70.00056606,-37.65596059 -70.00029956,-37.65597962 -70.00000025,-37.65602998</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">217442</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98501599,-37.66353688 -69.98526996,-37.66316499 -69.98541273,-37.66290325 -69.98556145,-37.66263556 -69.98567447,-37.66238571 -69.98582913,-37.66198715 -69.98589297,-37.66156018 -69.98601949,-37.66117814 -69.98613846,-37.66032153 -69.9862158,-37.65972667 -69.9864121,-37.65904733 -69.98641548,-37.65864824 -69.98647128,-37.65833312 -69.9864776,-37.65790399 -69.98648391,-37.65747486 -69.98657367,-37.65700689</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">223643</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96189594,-37.66470274 -69.96116614,-37.66461573 -69.960238,-37.66449456 -69.95968764,-37.66437032 -69.95915537,-37.66425308 -69.95847992,-37.66419421 -69.95776115,-37.66426441 -69.95671966,-37.66442304 -69.95607257,-37.66447119 -69.95574012,-37.66450249 -69.95523731,-37.66457808</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">223967</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97082464,-37.66666653 -69.97013935,-37.66632293 -69.96909219,-37.66604549 -69.96827186,-37.66591635 -69.96675001,-37.66580011 -69.96559668,-37.66565938 -69.96459517,-37.66543159 -69.96373693,-37.66515255 -69.96266209,-37.66481807 -69.96189594,-37.66470274 -69.96105451,-37.66433058 -69.96059951,-37.66392667 -69.96029669,-37.6634643 -69.96017533,-37.66312203 -69.95989858,-37.66258793 -69.95970711,-37.66238925 -69.95957049,-37.6622759 -69.95943962,-37.66216883 -69.95934444,-37.66213313 -69.95917701,-37.66208963</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">224467</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98657367,-37.65700689 -69.98709739,-37.65670594 -69.98744717,-37.65655603 -69.98801061,-37.65638247 -69.98865355,-37.65633474 -69.98928887,-37.65632047 -69.9896858,-37.65628582 -69.9909865,-37.65604976 -69.99169341,-37.65577207 -69.99252669,-37.65552907 -69.99407796,-37.6551656 -69.99496558,-37.65495073 -69.99610568,-37.65478378 -69.99758056,-37.65476416 -69.99815528,-37.65479129</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">224978</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.99815528,-37.65479129 -69.99899363,-37.65483086 -69.99975914,-37.65474666 -70,-37.65472016</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">225010</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98501599,-37.66353688 -69.98550837,-37.66323392 -69.98603455,-37.6631151 -69.98680084,-37.66301334 -69.98704645,-37.66299221 -69.9876449,-37.66289662 -69.9882922,-37.66286736 -69.98871783,-37.66285426 -69.98920828,-37.6627548 -69.98971405,-37.66245497 -69.99022519,-37.66210742 -69.99071259,-37.66177913 -69.99116274,-37.66135581 -69.99132058,-37.66104936 -69.99150146,-37.66067121 -69.99166926,-37.66021211 -69.99177047,-37.6597059 -69.99179846,-37.65910496 -69.99190982,-37.65846041 -69.99201223,-37.65804477 -69.99223805,-37.65789031 -69.99264642,-37.65793455 -69.99309784,-37.65805948 -69.99344013,-37.65809473 -69.99363188,-37.65808358 -69.99403701,-37.6578847 -69.99453156,-37.65764692 -69.99526545,-37.65736899 -69.99596634,-37.65709013 -69.99641365,-37.65690757 -69.99733281,-37.65669599 -69.99821747,-37.65659554 -69.99901281,-37.65654232 -69.99949356,-37.65650607 -69.99982387,-37.65642419 -70,-37.65640765</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">225039</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00000025,-37.65602998 -69.99979728,-37.65601363 -69.99942796,-37.65597385 -69.99909848,-37.65588725 -69.99881369,-37.65577882 -69.99857731,-37.65559131 -69.9985112,-37.65535588 -69.99845417,-37.65512752 -69.99843001,-37.65500258 -69.99836102,-37.65488874 -69.99815528,-37.65479129</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">225481</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9821104,-37.66666667 -69.98211258,-37.66666458 -69.98287427,-37.66593263 -69.98399792,-37.66473138 -69.98464781,-37.6640214 -69.98493684,-37.66365278 -69.98501599,-37.66353688</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">225596</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.95917701,-37.66208963 -69.95892803,-37.66208555 -69.95855395,-37.6622556 -69.95824281,-37.66254418 -69.9577257,-37.66290595 -69.95713746,-37.66333265 -69.95623503,-37.66381196 -69.95523731,-37.66457808 -69.95479967,-37.6649171 -69.95431188,-37.66515505 -69.95393116,-37.66541679 -69.95341958,-37.66573802 -69.95302697,-37.66596407 -69.95263436,-37.66614253 -69.95224175,-37.66629719 -69.95138294,-37.66653819 -69.9508709,-37.66666629</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">236444</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9508709,-37.66666629 -69.95001418,-37.66685539 -69.94974531,-37.66693503 -69.94939405,-37.66702129 -69.94901243,-37.667078 -69.94871312,-37.66712212 -69.94830954,-37.66722072 -69.94794428,-37.66738456 -69.94758764,-37.66763772 -69.94718823,-37.66806405 -69.9468406,-37.66843632 -69.94641096,-37.66884501 -69.94584729,-37.66932629 -69.94545346,-37.66960358 -69.94503737,-37.66989892 -69.94465822,-37.67015225 -69.94440898,-37.67030324 -69.94434735,-37.67034057 -69.94415973,-37.67045422</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">236448</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89903583,-37.68784824 -69.8988903,-37.68786672 -69.89852198,-37.68791959 -69.89782195,-37.6880751 -69.89743633,-37.6881853 -69.89701497,-37.68831723 -69.8965937,-37.68845631 -69.89621698,-37.68855929 -69.89594833,-37.6886686 -69.89550897,-37.68880067 -69.89527623,-37.68890255 -69.89494587,-37.6891196 -69.89475932,-37.68932125 -69.89462701,-37.68954394 -69.89459462,-37.68984454 -69.89454347,-37.69008092 -69.89450754,-37.69017951 -69.89443892,-37.69036777 -69.89427962,-37.69059067 -69.89414627,-37.69072755 -69.89384222,-37.69088719 -69.89354613,-37.69096094 -69.89327738,-37.6910631 -69.89322293,-37.69109754 -69.89291119,-37.69129471 -69.89272471,-37.69150351 -69.8925258,-37.69167665</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">236458</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98210747,-37.66666667 -69.98208786,-37.66667525 -69.98181518,-37.66679459 -69.98139457,-37.66696257 -69.98087496,-37.6671278 -69.98026024,-37.66724375 -69.97975707,-37.66729084 -69.97919121,-37.6673599 -69.97875494,-37.66736352 -69.97815633,-37.66733631 -69.97752206,-37.66733442 -69.97716277,-37.66737673 -69.97677245,-37.66745505 -69.97612624,-37.66757124 -69.97536703,-37.66764546 -69.97526359,-37.66764471</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">236547</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89325976,-37.69779651 -69.89339585,-37.69785713 -69.89343258,-37.69791764 -69.89350033,-37.69793858 -69.89360386,-37.69794137 -69.89369852,-37.69795495 -69.8937664,-37.69798662 -69.89382156,-37.69808274 -69.89385902,-37.69820403 -69.89384711,-37.69833642 -69.89381257,-37.69845825 -69.89381283,-37.69847971 -69.89381394,-37.69857266 -69.89383306,-37.69866549 -69.893897,-37.69874367 -69.89399213,-37.69879658 -69.89409614,-37.6988387 -69.89420889,-37.6988593 -69.89424435,-37.69890234</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">236568</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91710558,-37.66666667 -69.91679754,-37.66671015 -69.91640657,-37.66673385 -69.91600376,-37.66675754 -69.91564833,-37.66675754 -69.91536399,-37.66675754 -69.91499672,-37.66675754 -69.91451097,-37.66675754 -69.91407261,-37.66675754 -69.91353947,-37.66675754 -69.9131722,-37.666722 -69.91279308,-37.66667461 -69.91270305,-37.66666667</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">237351</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91994142,-37.66666716 -69.91912052,-37.66705385 -69.9184072,-37.66757192 -69.91788863,-37.66807654 -69.91738475,-37.66855722 -69.91695436,-37.66891813 -69.9165544,-37.66931456 -69.91633852,-37.66958982 -69.91624212,-37.66979796 -69.91618293,-37.67010592 -69.9161068,-37.67049984 -69.91604858,-37.67088646 -69.91602572,-37.67122275 -69.91602015,-37.67150169 -69.91601546,-37.67185214 -69.91610964,-37.67219467 -69.91621185,-37.67245848 -69.91629519,-37.67265092 -69.91640675,-37.67294325 -69.91647324,-37.67322879 -69.91652951,-37.67341428 -69.91649059,-37.67387998 -69.91630212,-37.67440587 -69.91619551,-37.67455293</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">237457</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.907834,-37.66810669 -69.90735527,-37.66822305 -69.90701859,-37.66827927 -69.90654697,-37.66833653 -69.90624544,-37.66829799 -69.90623911,-37.66829718 -69.90594574,-37.66821601 -69.90579465,-37.66812182 -69.90562094,-37.66801588 -69.90543288,-37.66796369 -69.90526032,-37.6679531 -69.90478805,-37.66795672 -69.90446614,-37.66799494 -69.90403943,-37.66804589 -69.90369677,-37.6682273 -69.90340679,-37.66842618 -69.90317701,-37.66864248 -69.90282129,-37.66898489 -69.90247214,-37.66924978 -69.90214352,-37.66935361 -69.9018601,-37.66947496 -69.90154719,-37.66963826 -69.90130954,-37.66982482 -69.90110944,-37.67001705 -69.90088544,-37.67014557</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">237458</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91362316,-37.67727526 -69.9131505,-37.67740232 -69.91284619,-37.6775334 -69.91267639,-37.67762768 -69.91242659,-37.67780124 -69.9120966,-37.67803979 -69.91177534,-37.67825681 -69.91140054,-37.67851001 -69.91101612,-37.67871321 -69.91064917,-37.67887337 -69.91044303,-37.67893933 -69.91016395,-37.67892718 -69.90990296,-37.67892204 -69.90964274,-37.67898126 -69.90936524,-37.67909782 -69.90909655,-37.67920001 -69.90884638,-37.67934497 -69.90856975,-37.67953303 -69.90827529,-37.67973554 -69.907981,-37.67995234 -69.90776725,-37.68013277 -69.90740597,-37.68048533</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">237459</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90410591,-37.68239385 -69.90371357,-37.68275093 -69.90346433,-37.68297453 -69.90303749,-37.68339257 -69.90277112,-37.68368781 -69.90257586,-37.683911 -69.90234443,-37.68412016 -69.90193651,-37.68453241 -69.90173286,-37.68480572 -69.90161035,-37.68509271 -69.90150628,-37.68541531 -69.90137633,-37.68583108 -69.9012995,-37.68617493 -69.90120494,-37.68654037 -69.90110034,-37.68682007 -69.90086994,-37.68711503 -69.90062094,-37.68736008 -69.90040629,-37.68746899 -69.9002092,-37.68754201 -69.89980628,-37.68770956 -69.8994294,-37.68779825 -69.89903583,-37.68784824</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">237460</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89903583,-37.68784824 -69.89884224,-37.68806939 -69.89884119,-37.68807041 -69.89866435,-37.68824238 -69.89854011,-37.68838635 -69.89841632,-37.68856846 -69.89833469,-37.68876455 -69.89827089,-37.6889462 -69.89824372,-37.68918002 -69.89822214,-37.68938042 -69.89827208,-37.68954214 -69.89834031,-37.68972755 -69.8985832,-37.68996884 -69.89875929,-37.6901439 -69.89882089,-37.69027692 -69.89888272,-37.69042901 -69.89889679,-37.69060053 -69.89885041,-37.69073438 -69.89873268,-37.69092121 -69.89857266,-37.69108453 -69.89837089,-37.69126723 -69.89827645,-37.69139667 -69.89815981,-37.69167408 -69.89798952,-37.6919805 -69.89775878,-37.69224923 -69.89756357,-37.69247956 -69.8973679,-37.69267175 -69.89723159,-37.69281105 -69.89707202,-37.6930125 -69.89688155,-37.6931379 -69.8967562,-37.6931913 -69.89658257,-37.69322122 -69.89645745,-37.69329369 -69.89640449,-37.69337991 -69.89637644,-37.69354222 -69.89637903,-37.69375673 -69.89634128,-37.69410982 -69.89631427,-37.69435794 -69.89623966,-37.69463979 -69.89620665,-37.69488795 -69.89615559,-37.69513148 -69.89603391,-37.69548997 -69.89589382,-37.69581523 -69.89571723,-37.69609785 -69.89562648,-37.69617136</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239441</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97526359,-37.66764471 -69.97467874,-37.66764043</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239442</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97467874,-37.66764043 -69.97383618,-37.66753296 -69.97327697,-37.66742316 -69.97266727,-37.66723511 -69.97196748,-37.66703706 -69.97145227,-37.6668518 -69.97082464,-37.66666653</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239443</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.94136929,-37.67093707 -69.94114782,-37.6709754 -69.93912698,-37.67088176</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239444</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.93912698,-37.67088176 -69.93868371,-37.67080782 -69.93803841,-37.67076528 -69.9374009,-37.67074651 -69.93689826,-37.67072071 -69.93624531,-37.6706663 -69.93592986,-37.67062112 -69.935427,-37.67057744 -69.93494692,-37.67055741 -69.93383843,-37.6704561 -69.93301262,-37.67036729 -69.93202804,-37.67017245 -69.93149386,-37.67002173 -69.93098052,-37.66973973 -69.93056331,-37.6693497 -69.93007759,-37.66887678 -69.92969067,-37.66851034 -69.9292961,-37.66813205 -69.92875006,-37.6676298 -69.92825865,-37.66729994 -69.92787278,-37.66701693 -69.9272241,-37.66666673</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239533</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89424435,-37.69890234 -69.89425455,-37.69895184 -69.89426698,-37.69898798 -69.89426995,-37.69903564 -69.89423935,-37.69908545 -69.89420868,-37.69912954 -69.89419483,-37.69917542 -69.89419778,-37.69922116 -69.89419397,-37.69930319 -69.89415092,-37.69934142 -69.89405227,-37.69937078 -69.8939583,-37.6994144 -69.89387773,-37.69945076 -69.89378847,-37.69951223 -69.8937445,-37.69959837 -69.89376357,-37.69968762 -69.89379169,-37.69978037 -69.8937838,-37.6998734 -69.8936906,-37.69998138 -69.89363304,-37.70006048 -69.89360712,-37.70015006 -69.89359478,-37.7002467 -69.89360956,-37.70035386 -69.89362872,-37.70045025 -69.89366575,-37.70053579 -69.89368037,-37.70062865 -69.89371821,-37.70078211 -69.89371834,-37.70079284 -69.89371945,-37.7008858 -69.89369379,-37.70099683 -69.89364528,-37.70107944 -69.89361489,-37.70117264 -69.89357993,-37.70125872 -69.89354954,-37.70135192 -69.89353266,-37.70144501 -69.89349821,-37.701574 -69.89344969,-37.7016566 -69.89341023,-37.70174272 -69.89339334,-37.70183581 -69.89336746,-37.70192897 -69.89333793,-37.70209368 -69.89332101,-37.7021832 -69.89331762,-37.70227619 -69.89331874,-37.70236915 -69.89331085,-37.70246217 -69.89329397,-37.70255527 -69.89327254,-37.70264482 -69.89324225,-37.70274517 -69.89324233,-37.70275232 -69.89324795,-37.70284524 -69.89324906,-37.7029382 -69.89325018,-37.70303116 -69.89322884,-37.70312786 -69.89321191,-37.70321738 -69.89317253,-37.70331065 -69.8931331,-37.70340034 -69.89309363,-37.70348645 -69.89305416,-37.70357257 -69.89300586,-37.70367305 -69.89296639,-37.70375917 -69.89289525,-37.70383122 -69.89280135,-37.70388199 -69.89269374,-37.70391498 -69.89249638,-37.70397011 -69.89238418,-37.70399599 -69.8922674,-37.70401475 -69.89215528,-37.70404778 -69.8920523,-37.70409147 -69.89158224,-37.70429884 -69.89147943,-37.70435682 -69.89137198,-37.70440412 -69.89113502,-37.70453463 -69.89111711,-37.70454192 -69.89102321,-37.70459269 -69.89090651,-37.7046186 -69.89078964,-37.70463021 -69.89067298,-37.7046597 -69.89047583,-37.7047327 -69.89036363,-37.70475857 -69.89025134,-37.7047773 -69.8901391,-37.7047996 -69.89002681,-37.70481833 -69.88990985,-37.70482279 -69.8897929,-37.70482725 -69.88967615,-37.70484958 -69.88956395,-37.70487546 -69.88929047,-37.70496333 -69.88918299,-37.70500705 -69.88908,-37.70505074 -69.88898618,-37.70510865 -69.88889699,-37.70517726 -69.88883943,-37.70525636 -69.88873776,-37.70541088 -69.88871217,-37.70552907 -69.88869074,-37.70561862 -69.88866931,-37.70570818 -69.88864337,-37.70579776 -69.88858127,-37.70587332 -69.8884784,-37.70592773 -69.88837996,-37.70597495 -69.88828614,-37.70603287 -69.88801651,-37.70618907 -69.88797502,-37.70623229 -69.88785678,-37.70638097 -69.88778065,-37.70653887 -69.88771047,-37.70669196 -69.88762846,-37.70685944 -69.88758262,-37.70704095 -69.88757139,-37.70709209 -69.88754278,-37.70722242 -69.88753271,-37.70738459 -69.8875227,-37.70755153 -69.88747057,-37.70770925 -69.88740656,-37.70787659 -69.88734849,-37.70803913 -69.88723121,-37.70826885 -69.88722527,-37.70827366 -69.88713702,-37.70842212 -69.88707318,-37.70860376 -69.88703356,-37.7088043 -69.88700561,-37.70897614 -69.88697799,-37.70917658 -69.88695712,-37.70943895 -69.88694127,-37.70962024 -69.88691326,-37.70978731 -69.8868621,-37.71002607 -69.88682208,-37.71019324 -69.88678212,-37.71036517 -69.88674205,-37.71052757 -69.88670204,-37.71069473 -69.88667974,-37.71083792 -69.88668224,-37.71104767 -69.88667257,-37.71124322 -69.88663306,-37.71145328 -69.88661762,-37.71166794 -69.8866196,-37.71183479 -69.8865917,-37.71201139 -69.88657603,-37.71220698 -69.88657807,-37.71237859 -69.88658006,-37.71254544 -69.88658205,-37.71271229 -69.8865841,-37.71288391 -69.88658614,-37.71305552 -69.88657007,-37.71321774 -69.88653011,-37.71338967 -69.8864117,-37.71369239</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239538</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8864117,-37.71369239 -69.88631264,-37.71394105 -69.88621358,-37.71418971 -69.88603047,-37.71444732</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239539</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.88603047,-37.71444732 -69.88584736,-37.71470493 -69.88551449,-37.71497441 -69.88527695,-37.71518596 -69.8849443,-37.71547451 -69.88473031,-37.71564775 -69.88444521,-37.7158978 -69.88411165,-37.71611007 -69.88375454,-37.71636066 -69.88330209,-37.71666917 -69.8829461,-37.7170151 -69.88280411,-37.71718779 -69.8826619,-37.71734142 -69.88233013,-37.71770623 -69.88185502,-37.71812933</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239540</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.88185502,-37.71812933 -69.88135544,-37.71851447 -69.88116476,-37.71863031 -69.8809503,-37.7187654 -69.88030578,-37.71907534 -69.88006686,-37.71917247 -69.87970747,-37.71923237 -69.87946764,-37.71925323 -69.87922827,-37.71931222 -69.87896489,-37.7193714 -69.87865328,-37.71941186 -69.87841368,-37.71945178 -69.87814963,-37.71945375 -69.87791003,-37.71949368 -69.8776702,-37.71951453 -69.87745483,-37.71957335 -69.87704765,-37.71965266 -69.87642419,-37.7197145 -69.87616013,-37.71971647 -69.87592008,-37.71971825 -69.87565603,-37.71972021 -69.87512724,-37.71966693 -69.87488697,-37.71964964 -69.87464692,-37.71965142 -69.87406968,-37.71956035 -69.87382918,-37.719524 -69.87358868,-37.71948764 -69.87334818,-37.71945128 -69.87313146,-37.71939567 -69.87260179,-37.71926611 -69.87236129,-37.71922975 -69.8717356,-37.71910088 -69.8711108,-37.71904829 -69.87087075,-37.71905007 -69.87060648,-37.71903295 -69.87036643,-37.71903472 -69.87012638,-37.71903649 -69.86950248,-37.71906017 -69.86902305,-37.71912091 -69.86878344,-37.71916082 -69.86823222,-37.71924116 -69.86780236,-37.71943502</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239541</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.86780236,-37.71943502 -69.86742161,-37.71972388 -69.86713666,-37.71999295 -69.86692328,-37.72022336 -69.86668678,-37.72053022 -69.86649763,-37.72077953 -69.86638004,-37.72099016 -69.86621534,-37.72127742 -69.86619422,-37.72152549 -69.86619644,-37.72171617 -69.86612731,-37.72196459 -69.86612953,-37.72215528 -69.86613175,-37.72234596 -69.8661353,-37.72265105 -69.86613752,-37.72284174 -69.86613974,-37.72303242 -69.86626333,-37.72333664 -69.86631378,-37.72354604 -69.86636401,-37.72373637 -69.86636624,-37.72392705 -69.86648982,-37.72423126 -69.86654006,-37.7244216 -69.86661408,-37.72459268 -69.86666431,-37.72478301 -69.86686037,-37.72512483 -69.86698329,-37.72537184 -69.86705754,-37.72556199 -69.86743429,-37.72621475 -69.86743443,-37.72622667 -69.86757183,-37.72642828 -69.86775425,-37.72662956 -69.86798224,-37.72687817 -69.86826928,-37.72704292 -69.86860119,-37.72719542 -69.86912789,-37.72732265 -69.86959387,-37.72739072 -69.86995496,-37.72747149 -69.87018045,-37.72750558 -69.87058683,-37.72760985 -69.87100892,-37.72777359 -69.87131027,-37.72787864 -69.87161232,-37.72804327 -69.87191522,-37.7282794 -69.87218824,-37.72852767 -69.87234081,-37.72874108</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239542</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87234081,-37.72874108 -69.87249323,-37.72894257 -69.87258522,-37.72910876 -69.87276864,-37.72939345 -69.87295178,-37.72965431 -69.87316521,-37.72993878 -69.87333265,-37.73014015 -69.87348466,-37.73030589 -69.87365252,-37.73054302 -69.87377438,-37.73069706 -69.87392654,-37.73087472 -69.8741101,-37.73117132 -69.87430938,-37.73152741</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239543</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87430938,-37.73152741 -69.87458551,-37.73203787 -69.87470962,-37.73238259 -69.87480176,-37.73256069 -69.8749103,-37.73285785 -69.87503372,-37.73314299 -69.8751267,-37.73339259 -69.87525109,-37.73376115 -69.87542079,-37.73415321 -69.87559091,-37.73458102 -69.87579263,-37.73514328 -69.87578085,-37.73516243 -69.87578298,-37.73534358 -69.87578523,-37.73553427 -69.87578748,-37.73572495 -69.87576627,-37.73596348 -69.87573239,-37.7361449 -69.87571254,-37.73649784 -69.87571467,-37.73667899 -69.87571681,-37.73686014 -69.87571894,-37.73704129 -69.87568528,-37.73724177 -69.87561572,-37.73745206 -69.87553393,-37.73764337 -69.87545214,-37.73783468 -69.875335,-37.73808346 -69.87520552,-37.73830372 -69.87512362,-37.7384855 -69.8750177,-37.73866745 -69.87487789,-37.73903082 -69.87477276,-37.73927951 -69.87469108,-37.73948035 -69.87465753,-37.73969037 -69.87463688,-37.73997657 -69.87466303,-37.74015754 -69.87466404,-37.74024335 -69.87470275,-37.7404719 -69.87476524,-37.74068121 -69.87482763,-37.74088098 -69.8748573,-37.74100935</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239544</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8748573,-37.74100935 -69.87487823,-37.74109991 -69.87495296,-37.74132819 -69.87495521,-37.74151888 -69.87495734,-37.74170002 -69.87495947,-37.74188117 -69.87496161,-37.74206232 -69.87496374,-37.74224347 -69.87496431,-37.74229193</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239545</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87496431,-37.74229193 -69.87496587,-37.74242462 -69.87496935,-37.74272018 -69.87497148,-37.74290133 -69.87497373,-37.74309201 -69.87497586,-37.74327316 -69.87493176,-37.74360721 -69.8749339,-37.74378836 -69.87492649,-37.74417935 -69.87492874,-37.74437003 -69.87492945,-37.74443041</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239546</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87492945,-37.74443041 -69.87493143,-37.74459885 -69.87489945,-37.74494235 -69.87487768,-37.74513321 -69.8748576,-37.74546709 -69.8748126,-37.74572486 -69.87476828,-37.74603985 -69.87473439,-37.74622126 -69.87470151,-37.74648849 -69.87470173,-37.74650756 -69.87470409,-37.74670777 -69.87469212,-37.74683035</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239547</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87469212,-37.74683035 -69.87468266,-37.74692724 -69.87468479,-37.74710839 -69.87473585,-37.74736545 -69.8748943,-37.74756451 -69.87506419,-37.74771581 -69.87527022,-37.74787637 -69.875428,-37.74801823 -69.87556199,-37.74817933 -69.87568408,-37.74835005 -69.87584231,-37.74853004 -69.87598819,-37.74868151 -69.87613475,-37.74889019 -69.87620949,-37.74911848 -69.87621163,-37.74929963</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239548</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87621163,-37.74929963 -69.87615485,-37.74957656 -69.87607305,-37.74976787 -69.87600348,-37.74997816 -69.87593368,-37.75016938 -69.87585244,-37.75040835 -69.87581855,-37.75058977 -69.87578478,-37.75078072 -69.87578702,-37.7509714 -69.8757895,-37.75118116 -69.87581891,-37.75163862 -69.87581913,-37.75165768 -69.87582127,-37.75183883 -69.87582453,-37.75211532 -69.87582666,-37.75229647 -69.87580512,-37.7525064 -69.87576001,-37.75275465 -69.87571524,-37.75303149 -69.87565879,-37.75333703 -69.87557788,-37.75360461 -69.87548384,-37.75377694 -69.87540181,-37.75394918 -69.87522539,-37.75426514 -69.8750593,-37.75443801 -69.87491711,-37.75460116 -69.87466808,-37.75486998 -69.87448975,-37.75502387 -69.87431176,-37.75520635 -69.87413366,-37.7553793</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239549</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87413366,-37.7553793 -69.87390808,-37.75560028 -69.87381372,-37.75565124</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239550</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87381372,-37.75565124 -69.87372908,-37.75569696 -69.87365736,-37.75572609 -69.87342943,-37.75574685 -69.87320127,-37.75574854 -69.87297311,-37.75575023 -69.87273194,-37.75566621 -69.8724902,-37.75553451 -69.87235609,-37.75536387 -69.87216072,-37.7550888 -69.87205063,-37.75491799 -69.87191663,-37.75475688 -69.87171003,-37.75454864 -69.87145518,-37.75432169 -69.87122445,-37.75410409 -69.87097016,-37.7539248 -69.87074044,-37.75379301 -69.87049927,-37.75370898 -69.87024588,-37.75360597 -69.8698605,-37.75351346 -69.86946268,-37.75338291 -69.86907708,-37.75327133 -69.86904084,-37.75325253 -69.86860665,-37.75309363 -69.86830556,-37.75301957 -69.86799213,-37.752917 -69.86773885,-37.75282351 -69.8675097,-37.75273938 -69.86726843,-37.75264581 -69.86700303,-37.75254288 -69.86671384,-37.75245919 -69.86640097,-37.75240428 -69.86607621,-37.75235899 -69.86584783,-37.7523416 -69.86558344,-37.75232447 -69.86535529,-37.75232615 -69.86509101,-37.75231855 -69.86486264,-37.75230116 -69.86462248,-37.75230292 -69.86439433,-37.7523046 -69.86401064,-37.75235508</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239551</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.86401064,-37.75235508 -69.86365118,-37.75242446 -69.8634238,-37.75249288 -69.86312527,-37.75263809 -69.86302615,-37.75275172</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239552</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8628424,-37.75296238 -69.86277023,-37.75308883 -69.86270051,-37.75328958 -69.86266659,-37.75347099 -69.8626091,-37.75369071 -69.86257573,-37.7539198 -69.86254181,-37.75410121 -69.86252001,-37.75429207 -69.86252244,-37.75450182 -69.86252454,-37.75468297 -69.86252665,-37.75486412 -69.86252875,-37.75504527 -69.8624956,-37.75529342 -69.86246223,-37.75552251 -69.86246434,-37.75570365 -69.86246644,-37.7558848 -69.86245654,-37.75606604 -69.86245864,-37.75624719 -69.86246074,-37.75642834 -69.86245084,-37.75660958 -69.86245294,-37.75679073 -69.86258558,-37.75729868 -69.86259343,-37.75732841 -69.86265534,-37.75748886 -69.86270224,-37.75764942 -69.86277986,-37.75786935 -69.8629408,-37.75815422 -69.86309354,-37.75837956 -69.8632082,-37.7585575 -69.86328533,-37.75873572 -69.86338463,-37.75888397 -69.86346156,-37.75904431 -69.86357643,-37.75924013 -69.86368324,-37.75938833 -69.86380506,-37.75953642 -69.86394975,-37.75971414 -69.864087,-37.75989788 -69.86423843,-37.76000999 -69.86449702,-37.7603001 -69.86450459,-37.76030601 -69.8646561,-37.76042408</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239553</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8646561,-37.76042408 -69.86482991,-37.76052412 -69.86505702,-37.76068931 -69.86521631,-37.76083117 -69.86535308,-37.76097319 -69.86550555,-37.76117469 -69.86553962,-37.76121774</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239554</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.86553962,-37.76121774 -69.86562745,-37.76132873 -69.86573441,-37.76148885 -69.86585631,-37.7616429 -69.86595555,-37.76178519 -69.86606981,-37.76192738 -69.86625203,-37.76210482 -69.86640375,-37.76224077 -69.86659327,-37.76240028 -69.86676,-37.76253612 -69.86691151,-37.76265419 -69.86711522,-37.76274208 -69.86728897,-37.76283615 -69.86747794,-37.76294799 -69.86766677,-37.76304791 -69.8677699,-37.76311077</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239555</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8677699,-37.76311077 -69.86784066,-37.7631539 -69.868037,-37.76325376 -69.86821826,-37.76334777 -69.86842954,-37.76344157 -69.86854114,-37.7634885</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239556</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.86854114,-37.7634885 -69.86861059,-37.7635177 -69.86882938,-37.76361144 -69.86906339,-37.76372294 -69.86925209,-37.76381094 -69.86960606,-37.76390964 -69.86961371,-37.7639215 -69.86983972,-37.76399135 -69.87002835,-37.76407338 -69.87023985,-37.76418505 -69.87042132,-37.76429694 -69.87061809,-37.76443255 -69.87076224,-37.76456259 -69.87089882,-37.76468673 -69.8710281,-37.76482879 -69.87115731,-37.7649649 -69.87127902,-37.76510107 -69.87143103,-37.76526085 -69.8715004,-37.76541528 -69.87152488,-37.76558196 -69.87152684,-37.76574881 -69.87151385,-37.76592172 -69.87148579,-37.76608879 -69.87145014,-37.76624996 -69.87140755,-37.76645885 -69.87137949,-37.76662592 -69.87134326,-37.7667264</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239557</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.87134326,-37.7667264 -69.87132132,-37.76678725 -69.87127817,-37.76694847 -69.871268568078,-37.7669774817843</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239663</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91619551,-37.67455293 -69.91581553,-37.67507711 -69.91555694,-37.67553863 -69.91521964,-37.67591311 -69.91490863,-37.67623018 -69.91452564,-37.67654781 -69.91421435,-37.67684343 -69.91396482,-37.67703845 -69.91362316,-37.67727526</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239678</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.885988,-37.69932961 -69.88593131,-37.69940687 -69.88590831,-37.69974315 -69.88590357,-37.70010075 -69.88589025,-37.70049418 -69.88600335,-37.7009224 -69.88615313,-37.70140757 -69.88632058,-37.70186399 -69.88644098,-37.70214914 -69.88668098,-37.70238033 -69.88669344,-37.70241838 -69.88689902,-37.70255032 -69.88702107,-37.70272103 -69.88709488,-37.70287304 -69.88715681,-37.70303467 -69.88723097,-37.70321528 -69.88731747,-37.7034244 -69.88735563,-37.70360528 -69.88735768,-37.70377689 -69.88735972,-37.70394851 -69.887362,-37.70413919 -69.88732971,-37.70429307</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239703</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.88539608,-37.70937321 -69.88536807,-37.70954029 -69.88535505,-37.70970725 -69.88534204,-37.70987421 -69.88531402,-37.71004128 -69.88533129,-37.71023185 -69.88537842,-37.71041028 -69.88541041,-37.71057691 -69.88542754,-37.71075556 -69.88544452,-37.71092229 -69.88549151,-37.7110888 -69.88553879,-37.71127915 -69.88557077,-37.71144577 -69.88568877,-37.7117798 -69.88576271,-37.71194134 -69.88584853,-37.71209326 -69.88593447,-37.71225471 -69.8860083,-37.71240672 -69.8860948,-37.71261584 -69.88614474,-37.71277756 -69.88621902,-37.7129677 -69.88625695,-37.71312951 -69.88631946,-37.71333881 -69.88631957,-37.71334834 -69.88636962,-37.7135196 -69.8864117,-37.71369239</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239714</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89325976,-37.69779651 -69.89300886,-37.69789668 -69.89290093,-37.69790227 -69.89267895,-37.69790395 -69.89258238,-37.697857 -69.89249239,-37.69785769 -69.89231886,-37.69789714 -69.89209248,-37.69803234 -69.89181262,-37.69821086 -69.8915511,-37.69841784 -69.89119501,-37.69874472 -69.89095742,-37.69894675 -69.89067229,-37.69918729 -69.8903498,-37.69931368 -69.89009318,-37.69943003 -69.88966315,-37.69959538 -69.88931751,-37.69979345 -69.88902048,-37.7000436 -69.88885449,-37.70021172 -69.88876065,-37.70039359 -69.88861305,-37.70059494 -69.88855425,-37.7006955 -69.88850824,-37.70086271 -69.88849309,-37.7011012 -69.88849548,-37.70130142 -69.88849238,-37.70154459 -69.888447,-37.70176423 -69.88835539,-37.70213202 -69.88825126,-37.702457 -69.88809953,-37.70281571 -69.88799517,-37.70312162 -69.88796533,-37.70319833 -69.88786127,-37.70346589 -69.88756673,-37.70392579 -69.88732971,-37.70429307</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239720</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89464881,-37.68786322 -69.89433766,-37.68818024 -69.89403542,-37.68849004 -69.89374286,-37.68885697 -69.89342339,-37.68923126 -69.89327462,-37.6895828 -69.89308241,-37.69006339 -69.89292532,-37.69047221 -69.89283037,-37.69080904 -69.89274416,-37.69112435 -69.8925258,-37.69167665</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239721</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.907834,-37.66810669 -69.90713363,-37.66846369 -69.90660359,-37.66889565 -69.9057716,-37.66952778 -69.90517112,-37.67008662 -69.90460818,-37.67065112 -69.90435043,-37.67103451 -69.90416787,-37.67146443 -69.9040687,-37.67194194 -69.90399952,-37.67241923 -69.90381111,-37.67295702 -69.90356098,-37.67335226 -69.90336896,-37.67359211 -69.90304198,-37.67383299 -69.90269814,-37.67391905 -69.90226317,-37.67391046 -69.90190188,-37.67379404 -69.90137551,-37.67366695 -69.9009391,-37.67353918 -69.90059367,-37.67349414 -69.90015986,-37.67358089 -69.89978617,-37.67367909 -69.89948787,-37.67381247 -69.89908678,-37.67412542</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239722</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89908678,-37.67412542 -69.89861301,-37.67462962 -69.89834772,-37.67501305 -69.8980223,-37.67538501 -69.89741501,-37.67600942 -69.89708944,-37.67636946 -69.8967483,-37.67668194 -69.8962587,-37.67709146 -69.89564203,-37.67766507 -69.89513454,-37.67811231 -69.89477991,-37.67855123 -69.89448885,-37.67903973 -69.89429675,-37.67952747 -69.89423987,-37.68003565 -69.89419275,-37.68060811 -69.89416191,-37.68103742 -69.89420331,-37.68148764 -69.8943262,-37.68198015 -69.89452955,-37.68242914 -69.89484087,-37.68287731 -69.89507019,-37.68324028 -69.89519085,-37.68354687 -69.89531358,-37.68402508 -69.89538051,-37.68435353 -69.8954651,-37.68465324 -69.89554181,-37.68504598 -69.89537945,-37.68576235 -69.89525257,-37.68643553 -69.89511445,-37.68692287 -69.89489526,-37.68740367 -69.89464881,-37.68786322</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239815</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90088544,-37.67014557 -69.90080417,-37.6701922 -69.90040758,-37.67050393 -69.90023083,-37.6707675 -69.90000982,-37.67109099 -69.8998188,-37.67141426 -69.89964276,-37.67173741 -69.89936321,-37.67218054 -69.89912921,-37.672671 -69.89907527,-37.673172 -69.89907887,-37.67346995 -69.89908046,-37.67360166 -69.89908246,-37.67376789 -69.89908678,-37.67412542</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239881</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91362316,-37.67727526 -69.91356619,-37.67754928 -69.91354139,-37.67772825 -69.91346323,-37.6779577 -69.91336716,-37.67819444 -69.91318191,-37.67849622 -69.91304976,-37.67872609 -69.91298041,-37.67894117 -69.91289246,-37.67910633 -69.91263497,-37.67938722 -69.91243049,-37.67958904 -69.91227021,-37.67972615 -69.91216426,-37.67989145 -69.91202267,-37.68008563 -69.91190737,-37.6802224 -69.91168498,-37.68043151 -69.91139883,-37.68057674 -69.9111746,-37.68063569 -69.91095823,-37.6806016 -69.91077733,-37.68052434 -69.91057922,-37.68051156 -69.91030101,-37.68057092 -69.91010438,-37.68067971 -69.90981831,-37.68083209 -69.90956753,-37.68092699 -69.90929814,-37.68097198 -69.90904604,-37.68095962 -69.90873892,-37.68086187 -69.9084587,-37.68075676 -69.9081059,-37.68060215 -69.90796098,-37.6805246 -69.9079462,-37.68052062 -69.90778043,-37.68047593 -69.90759149,-37.68047738 -69.90740597,-37.68048533</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239882</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90740597,-37.68048533 -69.90713827,-37.68066855 -69.90656104,-37.68104963 -69.9056422,-37.68145716 -69.90514386,-37.6819139 -69.90474465,-37.68213627 -69.90435673,-37.68230134 -69.90410591,-37.68239385</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239883</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.8925258,-37.69167665 -69.89233315,-37.69212149 -69.89221128,-37.69246567 -69.89212678,-37.692924 -69.89212395,-37.69343891 -69.89214606,-37.693782 -69.89205504,-37.69444776 -69.89190308,-37.69528561 -69.89181712,-37.69562238 -69.89164219,-37.69604562 -69.89144773,-37.6963403 -69.89115461,-37.69666432 -69.89086055,-37.69690969 -69.89046818,-37.69721301 -69.89009261,-37.69741608 -69.8896723,-37.69764094 -69.88945837,-37.69781418 -69.88911005,-37.6980385 -69.8886893,-37.69822761 -69.88837535,-37.69831579 -69.88796258,-37.69841902 -69.8874689,-37.69853 -69.88684031,-37.69864915 -69.88645555,-37.69883798 -69.8861793,-37.6990689 -69.885988,-37.69932961</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239884</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90410591,-37.68239385 -69.90385508,-37.68248636 -69.90317858,-37.68257775 -69.90291878,-37.6826152 -69.9028642,-37.68262307 -69.90252317,-37.68269719 -69.90217322,-37.68277853 -69.90181385,-37.68282419 -69.9014543,-37.68285554 -69.90095996,-37.68290223 -69.90051044,-37.68293427 -69.90023195,-37.68297215 -69.89991782,-37.68303891 -69.89955974,-37.68319182 -69.89914862,-37.6834238 -69.89897074,-37.68359678 -69.89877573,-37.68384141 -69.89858115,-37.6841218 -69.89849488,-37.68442996 -69.89841813,-37.68478096 -69.89830521,-37.68511793 -69.89815562,-37.68539797 -69.89789103,-37.68584337 -69.89753612,-37.68626084 -69.89730631,-37.68660586 -69.89718267,-37.68679988 -69.89703237,-37.68702272 -69.89688105,-37.68715974 -69.89670178,-37.68721832 -69.8965213,-37.68717678 -69.89628632,-37.68709275 -69.89609625,-37.68700123 -69.89588013,-37.68698857 -69.89554815,-37.68706975 -69.89542813,-37.68712547 -69.89523494,-37.68721516 -69.89489723,-37.68756813 -69.89464881,-37.68786322</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239885</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.89562648,-37.69617136 -69.89539636,-37.69635774 -69.89500984,-37.69664672 -69.89468291,-37.69690188 -69.89429616,-37.6971718 -69.89398036,-37.69735536 -69.89367685,-37.69756266 -69.89349224,-37.69767848 -69.89332535,-37.69777033 -69.89325976,-37.69779651</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">239912</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.88732971,-37.70429307 -69.88732793,-37.70430154 -69.88725831,-37.7045023 -69.88721225,-37.70466475 -69.88721429,-37.70483636 -69.88719222,-37.70499862 -69.88715816,-37.70516097 -69.88714832,-37.70534221 -69.88713847,-37.70552345 -69.88712841,-37.70568563 -69.88710634,-37.70584789 -69.88706813,-37.70616641 -69.88706841,-37.70619024 -69.88707069,-37.70638093 -69.88702767,-37.70654811 -69.88692437,-37.70669192 -69.88683622,-37.70684752 -69.88667419,-37.70709904 -69.88655632,-37.70727871 -69.88643802,-37.70742262 -69.88631972,-37.70756654 -69.88617226,-37.70778218 -69.88603967,-37.7079858 -69.88593651,-37.70814152 -69.88581863,-37.70832119 -69.88574575,-37.70850052 -69.88568788,-37.70867973 -69.88558514,-37.7088712 -69.88552726,-37.70905042 -69.88546925,-37.70921772 -69.88539608,-37.70937321</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">249016</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9272241,-37.66666673 -69.92603434,-37.66635966 -69.92460666,-37.66622641 -69.9230267,-37.66610744 -69.92165613,-37.66624544 -69.91994142,-37.66666716</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">249070</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70,-37.65640765 -70.00072126,-37.65638147 -70.00120112,-37.65632008 -70.00136768,-37.65628201 -70.00156381,-37.65614363</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">258175</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.01099564,-37.53484304 -70.01096709,-37.53486445 -70.01086001,-37.53496439 -70.01076008,-37.53510002 -70.01059589,-37.5351714 -70.01048882,-37.53519282 -70.01036746,-37.53521423 -70.01025325,-37.53530703 -70.01017473,-37.53539983 -70.01008907,-37.53546407 -70.00996771,-37.53547121 -70.00983922,-37.53548549 -70.00971073,-37.53552832 -70.00959652,-37.53554974 -70.00954655,-37.53557115 -70.00946803,-37.5356354 -70.00940378,-37.53569964 -70.00925388,-37.53576389 -70.00916822,-37.53577103 -70.00903972,-37.53582099 -70.0089612,-37.53587096 -70.00891123,-37.53592093 -70.00878988,-37.53592807 -70.00874705,-37.53594948 -70.0086257,-37.53599232 -70.00849721,-37.53599232 -70.00844724,-37.53600659 -70.00839727,-37.53605656 -70.0082545,-37.53611367 -70.0080118,-37.53619219 -70.00790472,-37.53625644 -70.00776195,-37.53634923 -70.00770485,-37.53639206 -70.00756922,-37.53648486 -70.00749783,-37.53657052 -70.00728368,-37.53669188 -70.00712664,-37.53677754 -70.00705525,-37.53688461 -70.00699101,-37.53700597 -70.00692676,-37.5371059 -70.00680541,-37.53717729 -70.00673403,-37.53723439 -70.00666978,-37.53733433 -70.00656984,-37.53741285 -70.00644849,-37.5374771 -70.00627717,-37.53758417 -70.00619151,-37.53766984 -70.00612013,-37.53776263 -70.00603447,-37.53784116 -70.00594167,-37.53788399 -70.00581318,-37.53791254 -70.00566327,-37.53792682 -70.00554906,-37.53793396 -70.00542056,-37.53794109 -70.00529921,-37.53791968 -70.00517072,-37.5379054 -70.00502082,-37.53793396 -70.00492088,-37.53794823 -70.00479239,-37.53801962 -70.00465676,-37.53810528 -70.00464962,-37.53816238 -70.00457824,-37.53823377 -70.00450685,-37.53829087 -70.00448544,-37.53835512 -70.00450685,-37.53845506 -70.00454254,-37.53852644 -70.00456396,-37.53863352 -70.00454254,-37.53874773 -70.00442833,-37.53881911 -70.00429984,-37.53886908 -70.00414993,-37.53894047 -70.00404286,-37.53899044 -70.00396433,-37.5390404 -70.00394292,-37.53912607 -70.00390009,-37.53918317 -70.00385012,-37.53926169 -70.0037716,-37.53934022 -70.00372877,-37.53937591 -70.00370021,-37.53942588 -70.00367166,-37.53946157 -70.00366452,-37.53955437 -70.00362883,-37.53964717 -70.00355745,-37.53976138 -70.0034932,-37.53983277 -70.00341468,-37.53986132 -70.00326477,-37.53989701 -70.00310773,-37.53991843 -70.00299351,-37.53995412 -70.00288644,-37.54000409 -70.00284361,-37.54003264 -70.00271512,-37.54007547 -70.00264373,-37.54013258 -70.00262232,-37.54018968 -70.00267229,-37.54022538 -70.00270084,-37.54029676 -70.00270084,-37.54038242 -70.00265087,-37.54046808 -70.00265087,-37.5405466 -70.00265087,-37.5406394 -70.00265801,-37.54074648 -70.00267229,-37.54084642 -70.00272226,-37.54097491 -70.0026366,-37.54113195 -70.00261518,-37.5411962 -70.00257949,-37.54130327 -70.00249383,-37.54137466 -70.00238675,-37.5414389 -70.00232251,-37.54146745 -70.00235106,-37.54156025 -70.00233678,-37.54166733 -70.00229395,-37.54173871 -70.00227254,-37.54179582 -70.00227968,-37.54189576 -70.00232251,-37.54197428 -70.00232964,-37.54210277 -70.00223685,-37.54220985 -70.00214405,-37.54228123 -70.00196559,-37.54232406 -70.00173716,-37.54238117 -70.00167291,-37.54245969 -70.00165864,-37.54256677 -70.00151587,-37.54273095 -70.00135882,-37.54278092 -70.00130172,-37.54285944 -70.00130172,-37.54298793 -70.00126603,-37.54308073 -70.00123747,-37.54323777 -70.00124461,-37.5433734 -70.00128744,-37.54344479 -70.00136596,-37.54351617 -70.00143021,-37.54357328 -70.00147304,-37.54368749 -70.00153728,-37.54376601 -70.00153728,-37.54387309 -70.00153728,-37.544023 -70.00159439,-37.54410866 -70.00167291,-37.54415863 -70.00170861,-37.5442657 -70.00175857,-37.54435136 -70.00179427,-37.54447271 -70.00176571,-37.54455837 -70.00165864,-37.5446369 -70.0015587,-37.54470828 -70.00150159,-37.54485105 -70.00144449,-37.54495099 -70.00139452,-37.5450652 -70.00129458,-37.545158 -70.00123747,-37.54530077 -70.00116609,-37.54542926 -70.00096621,-37.54545781 -70.00083772,-37.54550064 -70.00076634,-37.54557916 -70.00077348,-37.5456791 -70.00081631,-37.54577904 -70.00089483,-37.54577904 -70.0010376,-37.54580759 -70.0010947,-37.54582187 -70.00116609,-37.54592181 -70.0011875,-37.54602174 -70.00120178,-37.54612168 -70.00123033,-37.54623589 -70.00114467,-37.54630014 -70.00108757,-37.5463858 -70.00103046,-37.54645718 -70.00095908,-37.54652143 -70.00089483,-37.54660709 -70.00084486,-37.54665706 -70.00079489,-37.54674272 -70.00080203,-37.54682124 -70.00082345,-37.54688549 -70.00084486,-37.54698542 -70.00095194,-37.54707109 -70.00100904,-37.54713533 -70.00114467,-37.54724241 -70.00125889,-37.54733521 -70.00135882,-37.5474637 -70.00140879,-37.5476136 -70.00135169,-37.54772782 -70.00123747,-37.54773496 -70.0011304,-37.54772782 -70.00108043,-37.5477992 -70.00108043,-37.54787058 -70.00108757,-37.54794911 -70.00118037,-37.54800621 -70.00130172,-37.54804904 -70.00145876,-37.54811329 -70.0015587,-37.5481704 -70.00156584,-37.54824892 -70.00151587,-37.54835599 -70.00148018,-37.54847021 -70.00148018,-37.54859156 -70.00158011,-37.5486915 -70.00164436,-37.54877716 -70.00170861,-37.54890565 -70.00177999,-37.54894848 -70.00185137,-37.54903414 -70.00187279,-37.54909125 -70.00190134,-37.54917691 -70.00193703,-37.54928398 -70.00199414,-37.5493982 -70.00206552,-37.549491 -70.00220115,-37.5495481 -70.00228681,-37.54963377 -70.00230823,-37.54979795 -70.00232251,-37.54986219 -70.00221543,-37.54999068 -70.00212977,-37.55011918 -70.00208694,-37.55024053 -70.0020798,-37.5503476 -70.00219402,-37.5504404 -70.00224398,-37.55049751 -70.00225112,-37.55054748 -70.00225112,-37.55065455 -70.00213691,-37.55081874 -70.00209408,-37.55093295 -70.00202983,-37.55103289 -70.00197273,-37.55111141 -70.00210835,-37.5511471 -70.00225112,-37.55116138 -70.00245814,-37.5512399 -70.00250097,-37.55131129 -70.00249383,-37.55140408 -70.0025438,-37.55146833 -70.00267229,-37.55152544 -70.00277936,-37.55162537 -70.00280792,-37.55183953 -70.0027865,-37.55202512 -70.00274367,-37.55216789 -70.00273653,-37.55226069 -70.0027865,-37.55236777 -70.00290785,-37.55247484 -70.00300065,-37.55253909 -70.00312914,-37.55261761 -70.00331474,-37.55270327 -70.0034004,-37.55278179 -70.00344323,-37.55287459 -70.00345751,-37.55298881 -70.00343609,-37.5531173 -70.00336471,-37.55320296 -70.00324336,-37.55329576 -70.00303634,-37.55342425 -70.0028793,-37.55353846 -70.00286502,-37.55368837 -70.00289358,-37.55385969 -70.00299351,-37.55400246 -70.00308631,-37.55412381 -70.00315056,-37.55424516 -70.00318625,-37.5543451 -70.00320767,-37.55448073 -70.00316484,-37.55459494 -70.00312914,-37.55472343 -70.00312201,-37.55491617 -70.00313628,-37.55528023 -70.00313628,-37.55550865 -70.00310773,-37.55570853 -70.00296496,-37.5558156 -70.00280078,-37.55589413 -70.00266515,-37.55600834 -70.00247241,-37.55612969 -70.00224398,-37.55622249 -70.0020798,-37.55628674 -70.00197273,-37.55631529 -70.00185851,-37.55632957 -70.00172288,-37.55642237 -70.00160153,-37.55652944 -70.00160867,-37.55664366 -70.00168719,-37.55670076 -70.00178713,-37.55678642 -70.00181568,-37.55690778 -70.00175857,-37.55706482 -70.00168719,-37.55724328 -70.0017443,-37.5573218 -70.00182996,-37.55739319 -70.0018942,-37.55745029 -70.0018942,-37.55753596 -70.00179427,-37.55763589 -70.00179427,-37.55770728 -70.0018014,-37.55783577 -70.00177999,-37.55794998 -70.00173002,-37.55799995 -70.00162294,-37.55805706 -70.00151587,-37.55810703 -70.0013731,-37.55819269 -70.00133741,-37.55827835 -70.00132313,-37.55834973 -70.00128744,-37.55837115 -70.00119464,-37.55834973 -70.00111612,-37.55829262 -70.00105187,-37.55827835 -70.00096621,-37.55827835 -70.00090197,-37.55833545 -70.00084486,-37.55842111 -70.00081631,-37.55850678 -70.00083058,-37.55860671 -70.00085914,-37.5586781 -70.00088055,-37.5587709 -70.00090911,-37.55887797 -70.00097335,-37.55897791 -70.00103046,-37.55905643 -70.00110898,-37.55914209 -70.00120892,-37.55917064 -70.00130172,-37.55926344 -70.00135169,-37.5593491 -70.00138024,-37.55942763 -70.00142307,-37.5595347 -70.0014659,-37.55964178 -70.00142307,-37.55973458 -70.00138024,-37.55980596 -70.00136596,-37.56004153 -70.00134455,-37.5601843 -70.00125889,-37.56034134 -70.00120178,-37.56048411 -70.00114467,-37.5606126 -70.0010376,-37.56075537 -70.00099477,-37.56086958 -70.00098763,-37.56099093 -70.00098049,-37.56109801 -70.0009448,-37.56124078 -70.00090911,-37.5613193 -70.00086628,-37.5614121 -70.00082345,-37.5615049 -70.00080917,-37.56161911 -70.00080917,-37.56176188 -70.00088769,-37.56187609 -70.00091624,-37.56192606 -70.00097335,-37.56198317 -70.00105901,-37.56206169 -70.00120178,-37.56216877 -70.00127316,-37.56228298 -70.00128744,-37.5623615 -70.0012803,-37.56247572 -70.0011875,-37.56256138 -70.00110184,-37.56262562 -70.00107329,-37.56270414 -70.0010376,-37.56283977 -70.00102332,-37.5629754 -70.00102332,-37.56308248 -70.00108757,-37.56318955 -70.00116609,-37.56323238 -70.0012803,-37.56331091 -70.00139452,-37.56341084 -70.00140879,-37.56356075 -70.00138738,-37.56365355 -70.0012803,-37.56373207 -70.00115181,-37.56379632 -70.00105187,-37.56387484 -70.00101618,-37.56399619 -70.00093766,-37.56409613 -70.00085914,-37.56416751 -70.00074492,-37.56426031 -70.00063785,-37.56431028 -70.00053077,-37.56430314 -70.0004808,-37.56417465 -70.00044511,-37.56416751 -70.00040228,-37.56422462 -70.00039514,-37.56435311 -70.000388,-37.56448874 -70.00034517,-37.56461009 -70.00029521,-37.56468148 -70.00016671,-37.56477428 -70.00008105,-37.56491704 -70,-37.56503796</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">258176</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00404657,-37.52400184 -70.00410368,-37.52398043 -70.00423931,-37.52390904 -70.00440349,-37.52383766 -70.00456054,-37.52375914 -70.00466761,-37.523752 -70.00478896,-37.523752 -70.00492459,-37.52373058 -70.00510305,-37.52368062 -70.00526724,-37.52362351 -70.00541714,-37.52358782 -70.00557419,-37.52353785 -70.00573123,-37.5234736 -70.00584545,-37.52340936 -70.0059668,-37.52339508 -70.00610957,-37.52338794 -70.00643793,-37.52330942 -70.00655928,-37.52326659 -70.00669491,-37.52325945 -70.00687337,-37.52324517 -70.00705183,-37.5232309 -70.00718032,-37.52321662 -70.0073802,-37.52321662 -70.00745872,-37.52321662 -70.00755866,-37.52328087 -70.00764432,-37.52337367 -70.00777995,-37.52340222 -70.00791558,-37.52343791 -70.00810117,-37.52344505 -70.00825822,-37.52339508 -70.00837243,-37.52339508 -70.00853662,-37.52340936 -70.00857231,-37.52336653 -70.00857231,-37.52328087 -70.008608,-37.52321662 -70.0087008,-37.52318807 -70.00880074,-37.52317379 -70.00895778,-37.52314524 -70.00906486,-37.52309527 -70.00925045,-37.52298105 -70.00940036,-37.52293822 -70.00952885,-37.52293822 -70.00963593,-37.52296678 -70.00964306,-37.52301675 -70.0095931,-37.52303816 -70.0095574,-37.52307385 -70.00955027,-37.52313096 -70.00957882,-37.52320234 -70.00967876,-37.5232309 -70.00977869,-37.52325231 -70.00999285,-37.5232309 -70.01008564,-37.52320234 -70.010207,-37.52316665 -70.01025697,-37.52313096 -70.01038546,-37.52310241 -70.0104497,-37.52310955 -70.01054964,-37.52315951 -70.01074238,-37.52323804 -70.01092084,-37.52336653 -70.01099222,-37.52338794 -70.01107788,-37.52335939 -70.01112071,-37.5232309 -70.01114926,-37.5231381 -70.0112492,-37.52308813 -70.01139911,-37.52305958 -70.01147049,-37.52305958 -70.01159184,-37.52311668 -70.01170606,-37.52311668 -70.01181313,-37.52314524 -70.01192735,-37.52320234 -70.01205584,-37.52322376 -70.01214864,-37.52320948 -70.01220574,-37.52313096 -70.0122343,-37.52305244 -70.01227713,-37.52294536 -70.01231282,-37.5228597 -70.01237707,-37.5227669 -70.01246273,-37.52272407 -70.01259836,-37.52269552 -70.01267688,-37.52270266 -70.01276254,-37.52272407 -70.01288389,-37.5227669 -70.01302666,-37.52278832 -70.01316229,-37.52279546 -70.01328364,-37.52279546 -70.01344068,-37.52284543 -70.01352635,-37.5228597 -70.01360487,-37.52278118 -70.01362628,-37.52270266 -70.01374764,-37.52251706 -70.01381902,-37.52246709 -70.01393323,-37.52246709 -70.01404745,-37.52249564 -70.01415452,-37.5225242 -70.01434012,-37.52255989 -70.01446861,-37.52255989 -70.01457569,-37.522617 -70.0146899,-37.52268838 -70.01480412,-37.5227669 -70.01488264,-37.52285256 -70.0149683,-37.52293109 -70.01512534,-37.52299533 -70.01526811,-37.52302388 -70.01540374,-37.52308099 -70.01564645,-37.52308813 -70.01577494,-37.52310955 -70.01587487,-37.52309527 -70.01597481,-37.52290253 -70.01599623,-37.5226741 -70.01603192,-37.52253847 -70.01617469,-37.5224314 -70.01631031,-37.52240285 -70.01658157,-37.52231005 -70.01668151,-37.52230291 -70.01683855,-37.52234574 -70.0171812,-37.52240285 -70.01735966,-37.52240998 -70.0175167,-37.52241712 -70.01768088,-37.52238143 -70.01785934,-37.52225294 -70.01803066,-37.52213873 -70.01816629,-37.52202451 -70.01828765,-37.52185319 -70.01848038,-37.52176039 -70.01857318,-37.52173898 -70.01867312,-37.52171042 -70.018683669911,-37.5217033873828</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260434</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91270305,-37.66666667 -69.91252059,-37.66657983 -69.91234287,-37.66653244 -69.91207038,-37.66652059 -69.91182158,-37.66655614 -69.91159773,-37.66666667</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260435</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.91159773,-37.66666667 -69.91158989,-37.66667216 -69.91158037,-37.66667787 -69.91155634,-37.66668454 -69.91153825,-37.66668906 -69.91151803,-37.6666893 -69.91150637,-37.66668834 -69.91149328,-37.66668644 -69.9114721,-37.6666824 -69.91146687,-37.66668192 -69.91145188,-37.66668382 -69.91143377,-37.66669045 -69.91128844,-37.66671015 -69.91081454,-37.66679309 -69.91018662,-37.66699449 -69.90976011,-37.66723144 -69.90926252,-37.66745655 -69.90882416,-37.66763426 -69.90855167,-37.66781197 -69.90793765,-37.66805386 -69.907834,-37.66810669</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260436</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.92042942,-37.66654714 -69.92012996,-37.66653387 -69.91986605,-37.66652059 -69.91947508,-37.66648505 -69.91894194,-37.6664732 -69.91844435,-37.6664732 -69.91793491,-37.6664969 -69.91761502,-37.66654429 -69.91730699,-37.66662722 -69.91710558,-37.66666667</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260488</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70,-37.6539175 -69.9997735,-37.65391138 -69.99939279,-37.65389235 -69.99905015,-37.65385428 -69.99877413,-37.65379717 -69.9985457,-37.6537591 -69.99837438,-37.65372103 -69.99788897,-37.65373054 -69.99707995,-37.65378765 -69.99650888,-37.65389235 -69.99620431,-37.65395897 -69.99594733,-37.65406367 -69.99578553,-37.65420644 -69.99560469,-37.65441583 -69.99550951,-37.65462522 -69.99540481,-37.65481558 -69.99529882,-37.65490193</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260489</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.00206988,-37.6540475 -70.00133443,-37.65395897 -70.00086805,-37.65393042 -70.00042072,-37.65393042 -70.00012566,-37.6539209 -70,-37.6539175</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260490</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96427294,-37.66393302 -69.96426992,-37.66392963 -69.96406767,-37.66373927 -69.96384162,-37.66366789 -69.96361557,-37.6636203 -69.96324675,-37.66357271 -69.9630207,-37.66353702 -69.96277086,-37.66341804 -69.96249722,-37.66335856 -69.96221169,-37.66326338 -69.96198564,-37.66321579 -69.96167631,-37.6631563 -69.96134318,-37.66310871 -69.96117662,-37.66304923 -69.96097437,-37.66297784 -69.96066504,-37.66282318 -69.96046278,-37.662728 -69.96015345,-37.66259713 -69.95989858,-37.66258793</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">260491</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corrirnte de agua Perenne</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96534042,-37.6656011 -69.96497186,-37.66520264 -69.96484099,-37.664929 -69.96475771,-37.66465536 -69.96461494,-37.66441742 -69.96446028,-37.66414378 -69.96427294,-37.66393302</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">272062</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.86302615,-37.75275172 -69.86295824,-37.75282958 -69.8628424,-37.75296238</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Corriente_de_agua_perenne">
+		<SimpleData name="gid">272071</SimpleData>
+		<SimpleData name="entidad">12</SimpleData>
+		<SimpleData name="objeto">Corriente de agua Perenne</SimpleData>
+		<SimpleData name="fna">Río Neuquén</SimpleData>
+		<SimpleData name="gna">Río</SimpleData>
+		<SimpleData name="nam">Neuquén</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.94415973,-37.67045422 -69.94136929,-37.67093707</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

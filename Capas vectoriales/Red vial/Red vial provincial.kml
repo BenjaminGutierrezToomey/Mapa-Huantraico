@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Red_vial_provincial" id="Red_vial_provincial">
+	<SimpleField name="gid" type="int"></SimpleField>
+	<SimpleField name="entidad" type="int"></SimpleField>
+	<SimpleField name="objeto" type="string"></SimpleField>
+	<SimpleField name="fna1" type="string"></SimpleField>
+	<SimpleField name="gna1" type="string"></SimpleField>
+	<SimpleField name="nam1" type="string"></SimpleField>
+	<SimpleField name="fna2" type="string"></SimpleField>
+	<SimpleField name="gna2" type="string"></SimpleField>
+	<SimpleField name="nam2" type="string"></SimpleField>
+	<SimpleField name="fun" type="float"></SimpleField>
+	<SimpleField name="rst" type="float"></SimpleField>
+	<SimpleField name="typ" type="float"></SimpleField>
+	<SimpleField name="mes" type="float"></SimpleField>
+	<SimpleField name="hct" type="float"></SimpleField>
+	<SimpleField name="loc" type="float"></SimpleField>
+	<SimpleField name="fdc" type="string"></SimpleField>
+	<SimpleField name="nr" type="string"></SimpleField>
+	<SimpleField name="sag" type="string"></SimpleField>
+</Schema>
+<Folder><name>Red_vial_provincial</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">408029</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70.023528309479,-37.7318602367243 -70.02305523,-37.73196486 -70.02157818,-37.73216938 -70.02071467,-37.7321921 -70.01998751,-37.73203303 -70.01916945,-37.73166945 -70.01757878,-37.73110135 -70.01569612,-37.73038597 -70.01482919,-37.72989699 -70.01401114,-37.72926072 -70.01351121,-37.72873807 -70.01317035,-37.72807908 -70.01242047,-37.72721558 -70.01176147,-37.72630662 -70.01089797,-37.7252386 -70.01037496,-37.72463952 -70.00964816,-37.723807 -70.00935275,-37.72355704 -70.00908006,-37.7232389 -70.00860286,-37.72237539 -70.00717126,-37.71835327 -70.00689961,-37.71761795 -70.00585327,-37.71478563 -70.00458074,-37.71220775 -70.0037854,-37.71038984 -70.00253559,-37.70691309 -70.0013994,-37.7033 -70.00103582,-37.70207291 -70.00067223,-37.70134575 -70.00039955,-37.70089127 -70.00000067,-37.70048224 -70,-37.70048164</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413206</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96886144,-37.51746672 -69.96877853,-37.51721142 -69.96859535,-37.51656488</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413207</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97466939,-37.53587462 -69.97462725,-37.53573315 -69.97448924,-37.53529533 -69.97439882,-37.53499076 -69.97423702,-37.53447203 -69.9741228,-37.53411036 -69.97405618,-37.53392 -69.973961,-37.53358688 -69.97390389,-37.53337272 -69.97387534,-37.53321568 -69.97383727,-37.53309195 -69.97379444,-37.53298725 -69.97373257,-37.53284924 -69.97365167,-37.53264937 -69.97361836,-37.53253991 -69.97355173,-37.53232576 -69.97331855,-37.53157861 -69.97313771,-37.53097423 -69.97296163,-37.53046978 -69.97287121,-37.53017949 -69.97281886,-37.53000341 -69.97275223,-37.52979401 -69.9727094,-37.52965125 -69.9726285,-37.52942282 -69.97220496,-37.5281046 -69.97195749,-37.52732413 -69.97178141,-37.52668644 -69.97176801,-37.52663785 -69.97170527,-37.52641042 -69.97157678,-37.52602495 -69.9714816,-37.52574893 -69.97141498,-37.52551574 -69.97130076,-37.52522069 -69.97120083,-37.52487805 -69.97110089,-37.52454968 -69.97097716,-37.52420228 -69.97064403,-37.52318387 -69.97063112,-37.52314232</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413212</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.74538245,-37.66317997 -69.74547526,-37.66303665 -69.74596067,-37.66225619 -69.74603681,-37.66200872 -69.74608916,-37.66184216 -69.74617006,-37.6615709 -69.74636042,-37.66049063 -69.74666975,-37.658825 -69.7469648,-37.65745919 -69.74713137,-37.65645982 -69.74731696,-37.65544141 -69.74763581,-37.6538329 -69.74791659,-37.65226721 -69.74800701,-37.65172945 -69.74804508,-37.65130591 -69.74803556,-37.65104417 -69.74800225,-37.65088712 -69.74793562,-37.65073484 -69.74789755,-37.65063966 -69.74777858,-37.65040171 -69.74761202,-37.64993058 -69.74714088,-37.64880271 -69.74621765,-37.64667548 -69.74531822,-37.6444721 -69.7448804,-37.64329188 -69.74476618,-37.64305394 -69.74456631,-37.64287786 -69.7444283,-37.64276364 -69.74428553,-37.64263515 -69.74411421,-37.64245907 -69.74405234,-37.64229251 -69.74402379,-37.64214974 -69.7437097,-37.64104567 -69.74360976,-37.64072682 -69.74360976,-37.6404984 -69.74363832,-37.64029852 -69.74358121,-37.63999395 -69.74353362,-37.639756 -69.74342893,-37.6393515 -69.74328616,-37.63883753 -69.74262467,-37.63630579 -69.74202316,-37.6340547 -69.74150444,-37.63240336 -69.74098096,-37.63060924 -69.74086674,-37.6301857 -69.7408144,-37.62997155 -69.74077632,-37.62970981 -69.74075253,-37.62952421 -69.74069542,-37.62929578 -69.74060024,-37.62888651 -69.74047651,-37.62853435 -69.74038609,-37.62835827 -69.73997682,-37.62681638 -69.73988641,-37.62635477 -69.73986737,-37.6261882 -69.73988165,-37.6260502 -69.73991972,-37.62582653 -69.7399102,-37.62564093 -69.73990544,-37.62544581 -69.73985785,-37.62513172 -69.73986261,-37.6250413 -69.73987213,-37.62495564 -69.73991496,-37.62477956 -69.74003393,-37.62419422 -69.74007676,-37.62394675 -69.74011959,-37.62384206 -69.74016718,-37.62374212 -69.74024332,-37.62359935 -69.74037182,-37.62343279 -69.74069066,-37.62291407 -69.74082391,-37.62257142 -69.74087626,-37.62227637 -69.74092861,-37.62201463 -69.74093337,-37.62189566 -69.74090481,-37.62172433 -69.74086198,-37.62159109 -69.74085723,-37.62150067 -69.74085723,-37.62142452 -69.74090481,-37.62126748 -69.74091433,-37.62117706 -69.74091909,-37.62105809 -69.74088578,-37.62092484 -69.74083343,-37.62072496 -69.74077632,-37.62054412 -69.74069066,-37.62033949 -69.74053838,-37.62012534 -69.74041465,-37.61993022 -69.74037657,-37.61983028 -69.74037657,-37.61970655 -69.74045748,-37.61911645 -69.74055265,-37.61832646 -69.74071446,-37.61742703 -69.74074301,-37.61726047 -69.74090957,-37.61637531 -69.74096668,-37.61598507 -69.74099523,-37.6158899 -69.74109517,-37.61576616 -69.74141878,-37.61546635 -69.7419613,-37.61493335 -69.74258471,-37.61430993 -69.74387557,-37.61301194 -69.74492848,-37.6119626 -69.7460385,-37.61084901 -69.74677376,-37.61013517 -69.74798014,-37.60890737 -69.74926029,-37.60761175 -69.74992169,-37.60692125 -69.75072366,-37.60613887 -69.75259868,-37.60428289 -69.75497526,-37.60180052 -69.75729747,-37.59954098 -69.75836347,-37.5984845 -69.75867586,-37.59815298</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413370</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90591888,-37.43208551 -69.90487653,-37.43427998 -69.90233146,-37.43939669 -69.90156944,-37.44085275</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413374</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.74328136,-37.66666667 -69.74328146,-37.66666589 -69.74329092,-37.66658681 -69.74330995,-37.66651066 -69.74335278,-37.66638217 -69.74340989,-37.66627748 -69.74366687,-37.66591104 -69.74424746,-37.66496877 -69.7447757,-37.66411693 -69.74538245,-37.66317997</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413413</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.72732678,-37.591611 -69.72692703,-37.59167762 -69.72606091,-37.59186798 -69.72539466,-37.59198219 -69.72506153,-37.5920393 -69.72486166,-37.59206785 -69.72455495,-37.59213641 -69.72437625,-37.59216303 -69.7239734,-37.59225573 -69.72359579,-37.59235339 -69.72324363,-37.59242001 -69.72271063,-37.59252471 -69.72173029,-37.59270555 -69.72057863,-37.59293398 -69.72007418,-37.59302915 -69.71975058,-37.59308626 -69.71950311,-37.59314337 -69.71910336,-37.59324806 -69.71870361,-37.59339083 -69.71810399,-37.59361926 -69.71650261,-37.59423792 -69.71527148,-37.59470317 -69.71265692,-37.59566994 -69.71190787,-37.59597017 -69.70793893,-37.5975882 -69.70481708,-37.59884456 -69.70307531,-37.59954888</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413424</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.70307531,-37.59954888 -69.70160957,-37.6001485 -69.69932528,-37.60108125 -69.69853687,-37.60139967 -69.6931482,-37.60358444 -69.69217188,-37.60396407 -69.68910081,-37.60519045 -69.68830073,-37.60550978 -69.68529205,-37.60677642 -69.68117381,-37.60843556</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413436</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.75867586,-37.59815298 -69.75882984,-37.59798957 -69.7591011,-37.5976612 -69.75928194,-37.59734711 -69.75941995,-37.59703778 -69.75951512,-37.59675225 -69.75967217,-37.59631443 -69.75981784,-37.595928</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413455</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.75118781,-37.5887034 -69.75109394,-37.58861949 -69.75084172,-37.58848148 -69.75038486,-37.5883054 -69.74989945,-37.58815311 -69.74924272,-37.58799131 -69.74892277,-37.58795614 -69.74843736,-37.58790855 -69.74782822,-37.58787048 -69.7470192,-37.58788952 -69.74625777,-37.58793711 -69.74583899,-37.58797518 -69.74541068,-37.58805132 -69.74493479,-37.5881465 -69.74354519,-37.58842252 -69.74236497,-37.58866046 -69.74007117,-37.58906973 -69.73949059,-37.58920298 -69.73516948,-37.59006911 -69.73361559,-37.59037037 -69.72986022,-37.59110558 -69.72788833,-37.59149678 -69.72732678,-37.591611</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413461</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI-World_Imagery-2010/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97775155,-37.66666708 -69.97775169,-37.66666667 -69.97775397,-37.66645801 -69.97776345,-37.66625653 -69.97780849,-37.66605031 -69.97787011,-37.66575639 -69.97788434,-37.66558336 -69.97791278,-37.66526573 -69.97796288,-37.66505837 -69.97804616,-37.66479663 -69.97815621,-37.66443079 -69.97825733,-37.66404413 -69.97831033,-37.6638093 -69.97831508,-37.66371174 -69.97829129,-37.66303597 -69.97824846,-37.6616654 -69.97816756,-37.66087066 -69.97805334,-37.65956196 -69.97795817,-37.65840078 -69.97787726,-37.65759176 -69.97777257,-37.65702545 -69.97769167,-37.65668757 -69.97765835,-37.65647818 -69.97762028,-37.6560118 -69.97763932,-37.65566916 -69.97764408,-37.65535507 -69.97769642,-37.65510285 -69.97776781,-37.65495056 -69.97792961,-37.65475069 -69.97814852,-37.65440329 -69.97827701,-37.65410347 -69.97849116,-37.65376083 -69.97889567,-37.65321831 -69.97930018,-37.6526758 -69.97990932,-37.65194292 -69.98027576,-37.65152414 -69.98163205,-37.65021068 -69.98222216,-37.64959202 -69.98241252,-37.64926841 -69.98260287,-37.64884486 -69.98295503,-37.64772176 -69.98302166,-37.64748857 -69.98307877,-37.64708882 -69.98316918,-37.64659865 -69.98335478,-37.64556121 -69.98348327,-37.64496158 -69.98363556,-37.6441954 -69.98375929,-37.64351963 -69.98382116,-37.64320554 -69.98388302,-37.64296284 -69.98394489,-37.64268682 -69.98404959,-37.64243936 -69.98410193,-37.64220617 -69.98405434,-37.64200154 -69.984002,-37.64177787 -69.98391158,-37.64150185 -69.98382116,-37.64130197 -69.98368315,-37.6409974 -69.98355942,-37.64071187 -69.98338334,-37.64043109 -69.98325009,-37.64015983 -69.9832025,-37.63992665 -69.98319298,-37.6397696 -69.98315491,-37.63944124 -69.98315491,-37.63923184 -69.98318346,-37.63886541 -69.98321288,-37.63846622 -69.98321677,-37.63841331 -69.98321677,-37.6381944 -69.98323105,-37.63800404 -69.98324057,-37.63767092 -69.98326912,-37.63749484 -69.98330243,-37.63726165 -69.98335954,-37.63694756 -69.98340237,-37.63669534 -69.98344996,-37.63637649 -69.98348803,-37.63587204 -69.9835261,-37.63570072 -69.98356893,-37.63554844 -69.98367839,-37.63537712 -69.98372836,-37.6352748 -69.98377833,-37.63517248 -69.98385923,-37.63496309 -69.98403055,-37.63445388 -69.9843271,-37.63352554 -69.98435892,-37.63342596 -69.98448265,-37.63311663 -69.98464445,-37.63273116 -69.98473487,-37.63245514 -69.98489191,-37.6321696 -69.98499661,-37.63203635 -69.98513462,-37.63191262 -69.98524883,-37.63172702 -69.98536305,-37.63151763 -69.98542967,-37.63129872 -69.9854963,-37.63106077 -69.98552961,-37.63089897 -69.98558672,-37.63063723 -69.98558672,-37.63034694 -69.98557712,-37.62993445 -69.98557244,-37.62973303 -69.98559148,-37.62945226 -69.98560575,-37.62929997 -69.98563431,-37.62917148 -69.98566286,-37.62902395 -69.98573424,-37.62876221 -69.98577707,-37.62855282 -69.98583418,-37.62816259 -69.98588177,-37.62772477 -69.98591984,-37.62750586 -69.98595791,-37.62737737 -69.98597695,-37.62724888 -69.98597695,-37.62718701 -69.98593412,-37.62706804 -69.98594364,-37.62698238 -69.98596267,-37.6268872 -69.98599598,-37.62677298 -69.98601978,-37.62664925 -69.98604357,-37.62647317 -69.98610544,-37.62602583 -69.98617682,-37.62564036 -69.98618634,-37.62540717 -69.9861911,-37.62519302 -69.98621014,-37.62502646 -69.98626724,-37.62479327 -69.98640049,-37.6240366 -69.98644332,-37.62362734 -69.98649091,-37.62303723 -69.98650519,-37.62260893 -69.98650519,-37.6223805 -69.98652422,-37.62221394 -69.98654222,-37.62205341 -69.9866432,-37.6211527 -69.98665747,-37.62082909 -69.98669555,-37.62002959 -69.98673838,-37.61974882 -69.98677169,-37.61954418 -69.98678121,-37.6193681 -69.98676693,-37.61922058 -69.98674314,-37.61909208 -69.98674314,-37.61901118 -69.98676217,-37.6188589 -69.98679072,-37.61873992 -69.98681928,-37.61859716 -69.98683831,-37.61847818 -69.98684069,-37.61839252 -69.98684307,-37.61830686 -69.98695729,-37.61791663 -69.98708578,-37.61762158 -69.98719523,-37.61736935 -69.98734752,-37.61697912 -69.98759022,-37.61625101 -69.9876045,-37.61603686 -69.98762354,-37.61579891 -69.98766637,-37.61553717 -69.98765923,-37.61541344 -69.98762706,-37.61522083 -69.98762706,-37.61504951 -69.98766513,-37.61443085 -69.98768417,-37.61420242 -69.98769369,-37.61400255 -69.9877032,-37.61385026 -69.98771272,-37.61375508 -69.98776983,-37.61362183 -69.98776983,-37.6134981 -69.98774127,-37.61326967 -69.98773176,-37.61308883 -69.9877032,-37.61290799 -69.98768417,-37.61267956 -69.98761754,-37.61197524 -69.98756995,-37.61149935 -69.98749381,-37.6110996 -69.98738911,-37.61068082 -69.98726538,-37.60995746 -69.98720828,-37.60961482 -69.98717972,-37.60947205 -69.9871131,-37.6093388 -69.9871131,-37.60927218 -69.98712261,-37.60914844 -69.98713213,-37.60900568 -69.98709767,-37.60865101 -69.98707626,-37.60852728 -69.98697033,-37.60820618 -69.98687515,-37.6078445 -69.98679901,-37.60766366 -69.98676094,-37.60749234 -69.98673238,-37.60726391 -69.98664672,-37.60702597 -69.9863707,-37.60639779 -69.98616131,-37.6059219 -69.98572349,-37.60483686 -69.98542844,-37.60408495 -69.98518097,-37.60356147 -69.98507628,-37.60319027 -69.9849811,-37.60285715 -69.98490496,-37.6025621 -69.98488592,-37.60232415 -69.98490496,-37.60183874 -69.9848764,-37.60121056 -69.9848764,-37.6008013 -69.98485737,-37.60003035 -69.98489544,-37.59879303 -69.98492399,-37.59805064 -69.98491447,-37.59750812 -69.98491447,-37.59687994 -69.98488592,-37.5962708 -69.98482898,-37.59557198 -69.98480026,-37.59536661 -69.98476219,-37.59492879 -69.98469556,-37.59449097 -69.98461942,-37.59385327 -69.98450521,-37.5931775 -69.98441914,-37.59264882 -69.98433679,-37.59227826 -69.98413126,-37.59154491 -69.98395317,-37.59096936 -69.98381992,-37.59049347 -69.98368365,-37.59003738 -69.98357246,-37.58959879 -69.98337258,-37.58899917 -69.98326789,-37.58862797 -69.98318223,-37.58833292 -69.98304898,-37.58791413 -69.98292525,-37.58741921 -69.98276344,-37.58680055 -69.98241128,-37.58536335 -69.98230659,-37.58503975 -69.98223044,-37.5846971 -69.9822087,-37.58447216 -69.98214683,-37.58433891 -69.98208496,-37.58417234 -69.98204689,-37.58396295 -69.98199973,-37.58378302 -69.9819184,-37.58347278 -69.98181846,-37.58310635 -69.98176136,-37.58293978 -69.98164714,-37.58284936 -69.98150913,-37.58274943 -69.98129498,-37.58261142 -69.98117125,-37.58249244 -69.98105228,-37.58237823 -69.98100235,-37.58229918 -69.98082385,-37.58201655 -69.98074771,-37.58183571 -69.98072867,-37.58167867 -69.98074295,-37.58146928 -69.98075722,-37.58130747 -69.98078102,-37.58113615 -69.98083813,-37.58071261 -69.98086906,-37.58057698</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413466</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98111945,-37.55310733 -69.98110279,-37.55302881 -69.98104093,-37.55283369 -69.98096003,-37.5526243 -69.98066021,-37.55190094 -69.98062976,-37.55182969 -69.98028902,-37.55103244 -69.97991782,-37.55016394 -69.9793991,-37.54895993 -69.9789708,-37.54797007 -69.97867574,-37.54726575 -69.97836165,-37.5465186 -69.97801425,-37.54570007 -69.97770016,-37.54499099 -69.97738132,-37.54427239 -69.97712701,-37.54355408 -69.97684356,-37.54263532 -69.97660561,-37.54195955 -69.97649616,-37.54156456 -69.97624869,-37.54076982 -69.97605358,-37.54011309 -69.97562052,-37.53882818 -69.97541588,-37.53817621 -69.97530643,-37.5378526 -69.97524932,-37.5376908 -69.97520173,-37.53755755 -69.97514462,-37.53736244 -69.97510179,-37.53722443 -69.97498758,-37.53686751 -69.9747605,-37.53618049 -69.97466939,-37.53587462</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413480</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.95864877,-37.48579114 -69.95848733,-37.4853132 -69.95844378,-37.48516934</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413481</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97063112,-37.52314232 -69.97009676,-37.52142307 -69.96996672,-37.52100859 -69.96986833,-37.52069496 -69.96982792,-37.52055207</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413485</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.95687915,-37.48014349 -69.9568156,-37.47992379 -69.95644917,-37.47879593 -69.95621598,-37.47810588 -69.95591617,-37.47707795 -69.95539269,-37.47545992 -69.95523784,-37.47496394 -69.95508811,-37.47448434 -69.95448849,-37.47266881 -69.95421596,-37.47171026 -69.95414347,-37.47145529 -69.9538358,-37.47060065 -69.95363486,-37.47004248 -69.95338799,-37.46924536 -69.95315897,-37.46849881 -69.95302512,-37.46811215 -69.95284339,-37.46754065 -69.95272174,-37.46711575 -69.95270092,-37.46703544 -69.9526682,-37.46693729 -69.95262061,-37.46683021 -69.952576,-37.46674396 -69.95250461,-37.46664283 -69.9524481,-37.46658037 -69.95237969,-37.46650303 -69.95228749,-37.46640786 -69.95210011,-37.46619668 -69.95123173,-37.46519042 -69.95060528,-37.4645034 -69.94985449,-37.46364768 -69.94952434,-37.46324912 -69.94937787,-37.46307646 -69.94929532,-37.46298738 -69.94903358,-37.46272267 -69.94859932,-37.46225272 -69.94795687,-37.46153294 -69.94749882,-37.4610154 -69.9469456,-37.46041161 -69.94665412,-37.46007254 -69.94636263,-37.45973049 -69.94618417,-37.45951337 -69.94604503,-37.45934524 -69.9460414,-37.45934086 -69.94591351,-37.45919809 -69.94569936,-37.45900773 -69.94518182,-37.45844856 -69.94485762,-37.45810354 -69.94462265,-37.45788344 -69.94441,-37.45762614 -69.94435289,-37.45754048 -69.9442482,-37.45736916 -69.94417681,-37.45725494 -69.94412923,-37.45717404 -69.94409115,-37.45713121 -69.94401977,-37.45706459 -69.94378182,-37.4568314 -69.94359337,-37.45663859 -69.94295853,-37.45598907 -69.94182591,-37.45475175 -69.94089792,-37.45369051 -69.94021263,-37.45291481 -69.93954638,-37.4521629 -69.93904194,-37.45158231 -69.93839948,-37.45085419 -69.93830906,-37.45072094 -69.93822816,-37.45058769 -69.93815678,-37.45046872 -69.93811395,-37.45035451 -69.93806291,-37.45030882 -69.93799497,-37.45025933 -69.93788552,-37.4501927 -69.93781414,-37.45014035 -69.93769992,-37.45006421 -69.93760474,-37.44998807 -69.93696705,-37.44923616 -69.93662617,-37.44886294 -69.93594507,-37.44811424 -69.93517055,-37.44717198 -69.93426994,-37.44622082 -69.93352755,-37.44537849 -69.93334791,-37.4451172 -69.93316111,-37.44484549 -69.93306117,-37.44465038 -69.93300406,-37.44450285 -69.9329422,-37.4442887 -69.93286606,-37.44401268 -69.93259004,-37.44302283 -69.9324092,-37.44245175 -69.93205228,-37.44118112 -69.93201424,-37.44104442 -69.93189999,-37.44063385 -69.93174295,-37.44017699 -69.93142886,-37.43901581 -69.93120995,-37.43818776 -69.93112905,-37.43787843 -69.93104209,-37.43758827 -69.93063412,-37.43622708 -69.93043901,-37.43560367 -69.93034772,-37.43523852 -69.93033907,-37.43520392 -69.93030576,-37.43507543 -69.93024389,-37.43482796 -69.93014871,-37.43453767 -69.92998215,-37.43410936 -69.92989157,-37.43375645</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413487</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98002189,-37.57660249 -69.97988634,-37.57619639 -69.97971502,-37.57572526 -69.9796246,-37.57542069 -69.97960557,-37.5752922 -69.97960081,-37.57492576 -69.97963888,-37.57459739 -69.97967695,-37.57445938 -69.97982923,-37.5740406 -69.98002435,-37.5736123 -69.98016712,-37.57336959 -69.98032416,-37.57316972 -69.98072867,-37.572789 -69.98128546,-37.57229883 -69.98208496,-37.57149933 -69.98238953,-37.57116145 -69.98307482,-37.57024774 -69.98396291,-37.56899499 -69.98449115,-37.56810507 -69.98466723,-37.56779098 -69.98473861,-37.56748641 -69.98473385,-37.56719136 -69.9847053,-37.56697721 -69.98464343,-37.56672974 -69.98455777,-37.56647276 -69.98440073,-37.56615867 -69.98428743,-37.56593838 -69.98422941,-37.56582555 -69.98408664,-37.56555429 -69.98393435,-37.56526875 -69.98353936,-37.56448829 -69.98344418,-37.5642551 -69.98338708,-37.56402668 -69.98331093,-37.5636412 -69.9832681,-37.56344133 -69.98322527,-37.56324145 -69.98315389,-37.5628417 -69.98297781,-37.56184709 -69.98256854,-37.55978172 -69.98246385,-37.55922968 -69.98217831,-37.55782104 -69.98208313,-37.55732135 -69.98204982,-37.55714051 -69.98201651,-37.55695968 -69.98187374,-37.55617445 -69.98180711,-37.55576995 -69.98177856,-37.55556531 -69.98174525,-37.55542254 -69.98172621,-37.55531309 -69.98157869,-37.55472298 -69.98145495,-37.55421854 -69.98123128,-37.55354277 -69.98113611,-37.55318585 -69.98111945,-37.55310733</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413490</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96982792,-37.52055207 -69.96960183,-37.51975269 -69.96950557,-37.51945455 -69.96945599,-37.519301</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413492</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.84886822,-37.5312111 -69.84714672,-37.53376162 -69.8454937,-37.5362627 -69.84472276,-37.53737629 -69.84308093,-37.53977002 -69.84068243,-37.54318693 -69.84029798,-37.54371074 -69.83861706,-37.54608987 -69.8366659,-37.54882149 -69.8345339,-37.55180058 -69.83416271,-37.55231454 -69.83397711,-37.55256677 -69.8338629,-37.55270953 -69.83373916,-37.55286658 -69.83358688,-37.55302838 -69.83342507,-37.55317591 -69.83321092,-37.55332819 -69.8330396,-37.55342813 -69.83270661,-37.55355752</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413501</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96945599,-37.519301 -69.96925919,-37.51869145 -69.96886144,-37.51746672</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413502</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9680409,-37.51472965 -69.96798855,-37.51463209 -69.96794096,-37.51451787 -69.96786958,-37.51429421 -69.96763639,-37.5136232 -69.96747459,-37.51311399 -69.96726996,-37.51243823 -69.96720809,-37.51227166 -69.96712719,-37.5120242 -69.96698442,-37.51158638 -69.96688448,-37.51128657 -69.96679882,-37.51094392 -69.96668461,-37.51048707 -69.96663226,-37.51016822 -69.96660371,-37.51003497 -69.96657515,-37.50993979 -69.96650853,-37.50984937 -69.96641811,-37.50968757 -69.966361,-37.50954004 -69.96630389,-37.50937824 -69.96624203,-37.5091974 -69.9661992,-37.50905463 -69.96609926,-37.50877386 -69.96596817,-37.50837973 -69.96591426,-37.50821766 -69.96555674,-37.50714155 -69.96522362,-37.50608031 -69.96465731,-37.50438613 -69.96445743,-37.50374843 -69.96423852,-37.50304887 -69.96402437,-37.50236835 -69.96393871,-37.50208281 -69.96382926,-37.50178776 -69.9635342,-37.50093115 -69.96333191,-37.50036567 -69.96329011,-37.50024661 -69.96295596,-37.49929492 -69.96293577,-37.49922627 -69.96269422,-37.498405 -69.96259163,-37.49809059 -69.96243723,-37.4976174 -69.96218025,-37.49682979 -69.96175195,-37.49548778 -69.96112377,-37.49350807 -69.96079065,-37.49244683 -69.96019578,-37.4906432 -69.95968658,-37.48908703 -69.95938676,-37.48810669 -69.95884901,-37.48638396 -69.95864877,-37.48579114</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413509</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9178256571474,-37.4076164394314 -69.91735979,-37.40858743 -69.91654602,-37.41029588 -69.91631856,-37.41072888 -69.91615103,-37.41104779 -69.91579887,-37.41178542 -69.91546098,-37.41244691 -69.91472811,-37.41396977 -69.91425222,-37.41495962 -69.91359073,-37.41631592 -69.91228678,-37.41892381 -69.9110447,-37.42151266 -69.90933149,-37.42505806 -69.907819,-37.42808513 -69.90625006,-37.43138826</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413511</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.7947648,-37.5757956 -69.79456194,-37.57602857 -69.79353758,-37.57719927 -69.79294509,-37.57799876 -69.79272737,-37.57837353 -69.79259174,-37.57863765 -69.79239187,-37.57904811 -69.79229907,-37.57929795 -69.79222412,-37.57955136 -69.79209563,-37.57984047 -69.79192787,-37.58017597 -69.79174585,-37.58045794 -69.79148529,-37.58075775 -69.79073576,-37.581493 -69.79067659,-37.58154753 -69.78968999,-37.58245668 -69.78925455,-37.58283502 -69.78889406,-37.58305631 -69.78833013,-37.58339181 -69.78681679,-37.58420202 -69.78473952,-37.58520139 -69.78429251,-37.5854249 -69.78317622,-37.58598305 -69.78118461,-37.58693245 -69.77942143,-37.58778906 -69.77841848,-37.58826019 -69.77676595,-37.58903827 -69.77559882,-37.58956651 -69.77534416,-37.58968008 -69.77454234,-37.59003765 -69.77218668,-37.59106914 -69.77026288,-37.59191861 -69.76771448,-37.59297866 -69.76534811,-37.59396019 -69.76325656,-37.59482393 -69.7617111,-37.59545211 -69.76108292,-37.5956734 -69.76053327,-37.59580903 -69.75981784,-37.595928</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413642</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.75981784,-37.595928 -69.75907466,-37.59597678 -69.75838461,-37.59599106 -69.75825611,-37.5959845</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413648</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96859535,-37.51656488 -69.96847313,-37.51613353</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413658</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.95844378,-37.48516934 -69.95803865,-37.48383086 -69.95791967,-37.48343587 -69.95780546,-37.4830742 -69.95757703,-37.48242698 -69.95754848,-37.4822747 -69.9575342,-37.48213193 -69.95751041,-37.48203199 -69.95749613,-37.48195585 -69.95747233,-37.48189874 -69.95744854,-37.48184164 -69.95741999,-37.48175597 -69.95735812,-37.48160369 -69.95722288,-37.48132285 -69.95716578,-37.48112773 -69.95706584,-37.48085647 -69.95698023,-37.48056369 -69.95687915,-37.48014349</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413667</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90625006,-37.43138826 -69.90591888,-37.43208551</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413669</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.79668809,-37.57428113 -69.79630727,-37.57451166 -69.79590038,-37.57479185</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413675</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.81821101,-37.56113782 -69.81771111,-37.56156589 -69.81683517,-37.56231096 -69.81436083,-37.56447359 -69.81404417,-37.56474521 -69.81211938,-37.56639619 -69.81161969,-37.56681974 -69.81139127,-37.56700533 -69.81116284,-37.56717666 -69.8108773,-37.56735274 -69.81057749,-37.5675193 -69.81021105,-37.5677049 -69.80938776,-37.56812368 -69.80704161,-37.5692563 -69.80649999,-37.56952092 -69.8038397,-37.5707683 -69.80118338,-37.57204027 -69.799513,-37.57285405 -69.79849163,-37.57334233 -69.79842796,-37.57337277 -69.79777123,-37.57367734 -69.79763388,-37.57374914 -69.79714305,-37.57400571 -69.79668809,-37.57428113</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413676</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.83270661,-37.55355752 -69.83220679,-37.55375174 -69.83129784,-37.55403727 -69.82960366,-37.55457503 -69.82731462,-37.55531742 -69.82587267,-37.55577904 -69.82543009,-37.55591705 -69.82497799,-37.55605981 -69.82444499,-37.55625969 -69.82400241,-37.5564786 -69.8235979,-37.55668799 -69.82277461,-37.55721147 -69.82222733,-37.55764929 -69.82184186,-37.55797766 -69.82016196,-37.5594672 -69.81821101,-37.56113782</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413719</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.88298358,-37.48265118 -69.88295475,-37.48271276 -69.88140458,-37.48602354 -69.88063626,-37.48762279 -69.87853843,-37.49229954 -69.87716786,-37.49515489 -69.87705801,-37.49540236 -69.8768736,-37.49577117 -69.87671536,-37.49600674 -69.87642031,-37.49640649 -69.87614905,-37.4967063 -69.87392664,-37.49932847 -69.87241806,-37.50123679 -69.87030985,-37.50383992 -69.86877272,-37.50567687 -69.86740039,-37.50728641 -69.86634084,-37.50856944 -69.86245327,-37.51338415 -69.85915948,-37.51746347 -69.85542024,-37.52189498 -69.85315478,-37.52483112 -69.85046952,-37.52883685 -69.8492121,-37.53070163 -69.84886822,-37.5312111</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413858</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.75825611,-37.5959845 -69.75791824,-37.59596726 -69.75750421,-37.59589588 -69.75693314,-37.59575311 -69.75624786,-37.59548185 -69.75560064,-37.59516777 -69.75511523,-37.59482988 -69.75469645,-37.59448248 -69.75439188,-37.59421598 -69.75408255,-37.59390189 -69.75378749,-37.59356877 -69.75359238,-37.59317378 -69.75337347,-37.59260747 -69.75304034,-37.5918508 -69.75267867,-37.59109413 -69.75235506,-37.5904945 -69.75196483,-37.58972832 -69.75159363,-37.58913345 -69.75140803,-37.58890027 -69.7512399,-37.58874996 -69.75118781,-37.5887034</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413863</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.92989157,-37.43375645 -69.92982986,-37.43345263 -69.92960619,-37.43269596 -69.92940759,-37.43199197 -69.92902085,-37.43062107 -69.92898813,-37.43051747 -69.92853544,-37.42908394 -69.92848309,-37.42885076 -69.92846405,-37.42870323 -69.92846405,-37.42861281 -69.92847357,-37.42854618 -69.92847357,-37.42846528 -69.92845929,-37.42832727 -69.92837839,-37.42814168 -69.92823608,-37.42770483 -69.92801196,-37.4270852 -69.92740757,-37.42502458 -69.92708872,-37.42393479 -69.92664326,-37.42239925 -69.92662738,-37.42234973 -69.92625065,-37.42117501 -69.92607933,-37.42047545 -69.92596723,-37.42011415 -69.92567958,-37.41918697 -69.92517275,-37.41735955 -69.92455528,-37.4151645 -69.9242412,-37.41404734 -69.92418766,-37.41384746 -69.92417695,-37.4137047 -69.92416267,-37.41360833 -69.92416267,-37.4135191 -69.92414483,-37.41338347 -69.9241252,-37.41333172 -69.92410557,-37.41327996 -69.92406631,-37.41316218 -69.92399492,-37.41300157 -69.92392711,-37.41288021 -69.92388428,-37.41277671 -69.92379148,-37.41253757 -69.9235345,-37.41152035 -69.92280638,-37.40902549 -69.92273455,-37.4087575</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">415488</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98086906,-37.58057698 -69.98089999,-37.58044135 -69.98092855,-37.58035093 -69.98094758,-37.58026051 -69.98095234,-37.58015105 -69.98084289,-37.57962281 -69.98080481,-37.57928493 -69.98076198,-37.57905174 -69.98069536,-37.57884711 -69.98050024,-37.57806665 -69.98045741,-37.57783346 -69.98044314,-37.57767166 -69.98041934,-37.57752413 -69.98039555,-37.57736233 -69.98033844,-37.57722908 -69.98022898,-37.57701968 -69.98002189,-37.57660249</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">415489</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.68117381,-37.60843556 -69.6781495287564,-37.6096734957879</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">415494</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.96847313,-37.51613353 -69.96845493,-37.51606928 -69.96836451,-37.51566477 -69.9683312,-37.51535544 -69.96832644,-37.51524123 -69.9683074,-37.51512226 -69.96825029,-37.51502232 -69.96818843,-37.51494142 -69.96809325,-37.5148272 -69.9680409,-37.51472965</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">415497</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.90156944,-37.44085275 -69.90123934,-37.44148351 -69.90062698,-37.44234269 -69.90037951,-37.44271389 -69.9001606,-37.44300418 -69.89978941,-37.44361808 -69.89974182,-37.44371802 -69.89943725,-37.44494106 -69.89937062,-37.4453313 -69.89925165,-37.44623073 -69.89915231,-37.44684665 -69.89908509,-37.44726342 -69.8990137,-37.44758702 -69.89863299,-37.44900042 -69.89812379,-37.45091827 -69.89797626,-37.45151789 -69.8976241,-37.4528028 -69.89749085,-37.4532787 -69.89734808,-37.453707 -69.89725766,-37.45397826 -69.89699592,-37.45447794 -69.89672466,-37.45490625 -69.8957586,-37.45622923 -69.89461808,-37.4578648 -69.89424688,-37.45835497 -69.89398514,-37.4587214 -69.89387093,-37.45887845 -69.89377575,-37.45907356 -69.89314281,-37.4603442 -69.89251939,-37.46172428 -69.89222434,-37.46237626 -69.89159616,-37.46375634 -69.89079666,-37.46550287 -69.88992961,-37.46734842 -69.88969735,-37.46785378 -69.88955934,-37.46812979 -69.88893989,-37.46955315 -69.88576339,-37.47648933 -69.88370656,-37.48110708 -69.88366112,-37.48120413 -69.88298358,-37.48265118</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">415498</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">7</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.79590038,-37.57479185 -69.7954935,-37.57507203 -69.79511516,-37.57539325 -69.7947648,-37.5757956</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426575</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">-1</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-70,-37.70048164 -69.99769484,-37.69826239</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426645</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">-1</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.7344916780333,-37.7676112319511 -69.7345161,-37.76735667 -69.73481708,-37.76415162 -69.73483491,-37.76398776</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426646</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">-1</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.73483491,-37.76398776 -69.73504415,-37.76206441 -69.73508102,-37.76147168 -69.73515742,-37.76061557 -69.73519005,-37.76012073 -69.73531207,-37.75879698 -69.73544702,-37.75726458 -69.73560016,-37.75605386 -69.73563374,-37.75565437 -69.73568362,-37.75538588 -69.73579148,-37.75490846 -69.73585437,-37.75443727 -69.73593368,-37.75410901 -69.73593167,-37.7539064 -69.73593014,-37.75375147 -69.7358909,-37.75357889 -69.73579853,-37.75334705 -69.73559165,-37.75291926 -69.7354919,-37.75269939 -69.73534334,-37.75209841 -69.73518551,-37.75131872 -69.73516035,-37.7510507 -69.73517365,-37.75087779 -69.73521726,-37.75073449 -69.73534893,-37.75038803 -69.73540773,-37.75026251 -69.73547292,-37.75002373 -69.73550891,-37.74986856 -69.73552906,-37.74963006 -69.73553462,-37.74943336 -69.73553279,-37.74924863 -69.7354789,-37.7491119 -69.73528651,-37.74863039 -69.73494113,-37.74785782 -69.73479548,-37.74754884 -69.73451333,-37.74709768 -69.73398715,-37.74625472 -69.73387288,-37.74608261 -69.73372859,-37.74591068 -69.73344407,-37.74554463 -69.73325561,-37.74513294 -69.73317892,-37.74496656 -69.73300249,-37.74458029 -69.73239926,-37.74352922 -69.73104088,-37.74123732 -69.73014815,-37.73974108 -69.72925151,-37.73826302 -69.72861494,-37.73720589 -69.72837818,-37.73678423 -69.728279,-37.73661798 -69.72821018,-37.7364873 -69.72816318,-37.73628497 -69.72816026,-37.73598702 -69.72812727,-37.73568329 -69.72809381,-37.73533189 -69.72806041,-37.73498645 -69.72810949,-37.73463454 -69.72815933,-37.7343601 -69.72828362,-37.7340256 -69.72842198,-37.73359567 -69.72848184,-37.73335548 -69.72847912,-37.73302488 -69.72844214,-37.7325288 -69.72843032,-37.73228567 -69.72845601,-37.73210679 -69.72847473,-37.73197284</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426647</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">13</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">-1</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">1</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.72847473,-37.73197284 -69.72866072,-37.7316406 -69.72878243,-37.731396 -69.72886488,-37.7312334 -69.72889958,-37.73109969 -69.72892829,-37.73096602 -69.72892055,-37.73078967 -69.72898522,-37.73065101 -69.72909815,-37.73053589 -69.72926453,-37.73036323 -69.72938862,-37.73016223 -69.72949469,-37.72996133 -69.72954126,-37.72981325 -69.72957554,-37.72963664 -69.72957335,-37.72941258 -69.72959516,-37.72918837 -69.72965168,-37.72883105 -69.72974251,-37.72852953 -69.72980722,-37.72833533 -69.7301834,-37.727536 -69.7303336,-37.7272148 -69.73043322,-37.72704434 -69.73049146,-37.72686221 -69.73060161,-37.72646816 -69.73076946,-37.72578743 -69.73093384,-37.72510704 -69.73100167,-37.72483159 -69.73120597,-37.72393968 -69.73144659,-37.72277252 -69.73158335,-37.72203151 -69.73175425,-37.72110078 -69.73189115,-37.72037407 -69.73206915,-37.71970789 -69.7321494,-37.71919569 -69.7322923,-37.71859804 -69.73263646,-37.7169797 -69.73282374,-37.71634207 -69.73292285,-37.7158945 -69.73293537,-37.7157943 -69.73290291,-37.71569796 -69.73282527,-37.71558402 -69.73267009,-37.71536687 -69.73256939,-37.71519586 -69.73254083,-37.71503871 -69.73252448,-37.71474918 -69.73254916,-37.71451303 -69.7327226,-37.71338562 -69.73280287,-37.71285235 -69.73288207,-37.71175412 -69.7328682,-37.71080308 -69.73286865,-37.70993419 -69.73290233,-37.70969798 -69.73292679,-37.70944038 -69.73291754,-37.70895773 -69.73287052,-37.70829652 -69.73297459,-37.7078954 -69.73305626,-37.70750514 -69.73313304,-37.70707558 -69.73322704,-37.70656725 -69.7334218,-37.70577939 -69.73377023,-37.70460083 -69.73391039,-37.7042102 -69.73398953,-37.70409798 -69.73432333,-37.70364268 -69.7348346,-37.7030066 -69.73595048,-37.70161942 -69.73628363,-37.70117754 -69.7366031,-37.70071785 -69.73683859,-37.70041245 -69.73698539,-37.7002399 -69.7371639,-37.70008861 -69.73730605,-37.69990178 -69.73741288,-37.69978312 -69.73748853,-37.69969683 -69.73762278,-37.6996209 -69.73783793,-37.69953374 -69.73805318,-37.6994573 -69.73819653,-37.69939204 -69.73826325,-37.69931296 -69.73831587,-37.69917318 -69.7383586,-37.69894407 -69.73845412,-37.69859305 -69.73863428,-37.69815569 -69.7389856,-37.69728102 -69.73917965,-37.69688291 -69.73928502,-37.69661764 -69.73935435,-37.69634903 -69.73941844,-37.69600537 -69.73945195,-37.69575486 -69.73946987,-37.69529348 -69.73945501,-37.69501848 -69.73946187,-37.69403489 -69.73946451,-37.69339483 -69.73945838,-37.69187163 -69.73943724,-37.69064888 -69.73943693,-37.68925794 -69.73944382,-37.68859282 -69.73941679,-37.68677654 -69.73940587,-37.68612941 -69.73938215,-37.68532759 -69.73939616,-37.68424508 -69.73939388,-37.68356214 -69.73937959,-37.68302945 -69.73939878,-37.68269679 -69.73941915,-37.68248212 -69.73952297,-37.68206312 -69.73993544,-37.68055874 -69.74005254,-37.6801182 -69.74016584,-37.67974919 -69.74023895,-37.67940904 -69.74030326,-37.6790904 -69.74044321,-37.67868547 -69.74057921,-37.67833777 -69.74064764,-37.67797977 -69.74066814,-37.67777941 -69.74067436,-37.67750046 -69.7406547,-37.67733253 -69.74068505,-37.67721792 -69.74079092,-37.67700629 -69.7409287,-37.67683736 -69.74101647,-37.67661512 -69.74111227,-37.67629628 -69.74128472,-37.6756176 -69.74137594,-37.67514027 -69.74140922,-37.67486831 -69.74141904,-37.67464894 -69.74148255,-37.67440062 -69.74155167,-37.67411413 -69.74163065,-37.67401508 -69.74172833,-37.67378406 -69.74181002,-37.6735547 -69.74191585,-37.67333949 -69.74202657,-37.6730146 -69.74212445,-37.67260397 -69.74215854,-37.67241305 -69.74221119,-37.67227923 -69.7423113,-37.67209266 -69.74236861,-37.67182532 -69.74246044,-37.67140996 -69.74254698,-37.67106615 -69.7426888,-37.67025 -69.74285893,-37.6692668 -69.74300664,-37.66844108 -69.74307909,-37.66788758 -69.74317487,-37.66726719 -69.74324913,-37.66689681 -69.74327927,-37.66672232 -69.74328167,-37.66670845 -69.74328148,-37.66667133 -69.74328146,-37.66666667</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426663</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">-1</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.99769484,-37.69826239 -69.99690788,-37.69750471 -69.9956772,-37.69643854 -69.99424052,-37.69500523 -69.99341421,-37.69423033 -69.99222392,-37.69315336 -69.99168278,-37.69261442 -69.99087992,-37.69174991 -69.99041631,-37.69121865 -69.99022073,-37.69094855 -69.98957699,-37.68977741 -69.98891753,-37.68859004 -69.9881801,-37.68711515 -69.98754868,-37.68579822 -69.98687501,-37.68439047 -69.98651962,-37.6837425 -69.98622337,-37.68311567 -69.98606958,-37.68280256 -69.98502834,-37.68075144 -69.98464607,-37.67996799 -69.98452953,-37.6797735 -69.98432182,-37.67948918 -69.98422416,-37.67936127 -69.98416732,-37.67925907 -69.98415059,-37.67912788 -69.98416082,-37.67905033 -69.98415656,-37.67872855 -69.98409108,-37.67831194 -69.9840558,-37.67808221 -69.98405726,-37.67773893 -69.98412307,-37.67727117 -69.98419013,-37.67689874 -69.98430688,-37.67620171 -69.98443277,-37.67552786</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426664</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">-1</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.98443277,-37.67552786 -69.98458698,-37.67470237 -69.98475095,-37.67394774 -69.9848694,-37.67337942 -69.98490072,-37.67302636 -69.9848417,-37.67274483</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426665</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">-1</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010/IGN01</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.9848417,-37.67274483 -69.9848239,-37.6726599 -69.9845784,-37.67223764 -69.98427488,-37.67196366 -69.98350795,-37.67156959 -69.98295912,-37.67134055 -69.9820191,-37.67100989 -69.98134503,-37.67083434 -69.98050443,-37.67076505 -69.97967064,-37.67075767 -69.97937141,-37.67080783 -69.97909086,-37.67091028 -69.97895424,-37.67101153 -69.97880688,-37.67120822 -69.97854682,-37.6715012 -69.97845187,-37.67157827 -69.97835737,-37.67162852 -69.97802213,-37.67173916 -69.97769909,-37.67180382 -69.97738861,-37.67191128 -69.97702497,-37.67208115 -69.97654769,-37.67227581 -69.97619656,-37.67240684 -69.97581871,-37.67248684 -69.97525133,-37.6726727 -69.9747801,-37.67287207 -69.97448829,-37.67303181 -69.97406078,-37.6733643 -69.97379358,-37.67357151 -69.97345935,-37.67369822 -69.97305752,-37.67370154 -69.97272061,-37.67362327 -69.97248578,-37.67355369 -69.97223177,-37.67339369 -69.97192768,-37.67307201 -69.97095061,-37.67219806 -69.97083633,-37.67206539</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">426666</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">-1</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">ESRI_World_Imagery-2010</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.97083633,-37.67206539 -69.97078403,-37.67184187 -69.97081091,-37.67160327 -69.97088589,-37.67137382 -69.97096768,-37.67120628 -69.971104,-37.6710812 -69.97119865,-37.6709803 -69.97130492,-37.67085071 -69.97140507,-37.67071162 -69.97160363,-37.67029998 -69.97177444,-37.6700602 -69.97192899,-37.66995404 -69.97233967,-37.66976319 -69.97444413,-37.66898645 -69.97480461,-37.66887406 -69.97519107,-37.66879792 -69.97541466,-37.66874339 -69.97558798,-37.66874196 -69.97588889,-37.66868655 -69.97603232,-37.66864722 -69.97617531,-37.66857453 -69.9763103,-37.66843454 -69.97666307,-37.66826537 -69.9769433,-37.66813909 -69.97724044,-37.66801911 -69.97762282,-37.66781881 -69.97774776,-37.66774149 -69.97779954,-37.6675742 -69.97780267,-37.66733526 -69.97775155,-37.66666708</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413211</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.92265566,-37.40846318 -69.92252798,-37.40798685 -69.92250239,-37.40790139 -69.9224108690255,-37.407595720702</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Red_vial_provincial">
+		<SimpleData name="gid">413631</SimpleData>
+		<SimpleData name="entidad">0</SimpleData>
+		<SimpleData name="objeto">Red Vial</SimpleData>
+		<SimpleData name="fna1">-2</SimpleData>
+		<SimpleData name="gna1">-2</SimpleData>
+		<SimpleData name="nam1">-2</SimpleData>
+		<SimpleData name="fna2">-2</SimpleData>
+		<SimpleData name="gna2">-2</SimpleData>
+		<SimpleData name="nam2">-2</SimpleData>
+		<SimpleData name="fun">6</SimpleData>
+		<SimpleData name="rst">19</SimpleData>
+		<SimpleData name="typ">54</SimpleData>
+		<SimpleData name="mes">0</SimpleData>
+		<SimpleData name="hct">2</SimpleData>
+		<SimpleData name="loc">44</SimpleData>
+		<SimpleData name="fdc">Esri-World_Imagery/IGN01/ACA/DPV</SimpleData>
+		<SimpleData name="nr">9</SimpleData>
+		<SimpleData name="sag">IGN</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-69.92273455,-37.4087575 -69.92265566,-37.40846318</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
